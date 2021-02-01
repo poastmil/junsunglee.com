@@ -1,9 +1,11 @@
 ---
 layout: post
-title: George Gilder & Life After Google
+title: Life After Google | George Gilder
 ---
 
-So how did I decide that devoting my scarce time and energy to blockchain was worth the risk? George Gilder.
+*What remains scarce when all else is abundant is time.*
+
+So how did I decide that investing my time in blockchain was worth the risk? George Gilder.
 
 ### Life After Google
 
