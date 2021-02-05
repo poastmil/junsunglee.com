@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Review | ConsenSys Blockchain Developer Bootcamp
+title: ConsenSys Blockchain Developer Bootcamp
 ---
 
