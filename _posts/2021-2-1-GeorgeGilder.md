@@ -3,7 +3,7 @@ layout: post
 title: George Gilder
 ---
 
-*What remains scarce when all else is abundant is time.*
+*Time is what remains scarce when everything else becomes abundant.*
 
 So how did I decide that investing my time in blockchain was worth the risk? George Gilder.
 
