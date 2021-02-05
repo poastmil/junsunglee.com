@@ -6,5 +6,7 @@ permalink: /books/
 
 I have a confession to make... I'm addicted to reading.
 
-Below are a few I have my eyes on. If you buy any through this page, you'll help fund my habit (and shrink my wishlist).
-[![An old rock in the desert](/images/GulagArchipelago.jpg "The Gulag Archipelago by Aleksandr Solzhenitsyn")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
+[Goodreads](https://www.goodreads.com/user/show/74709390-jun-sung-lee) | [Wishlist](https://www.amazon.com/hz/wishlist/ls/23VPKR94OL7XY?ref_=wl_share)
+
+Below are some of my favorites:
+- [![God in the Dock](/images/GodInTheDock.jpg "God in the Dock by C.S. Lewis")](https://smile.amazon.com/God-Dock-C-S-Lewis/dp/0802871836/ref=sr_1_1?crid=19NG8EG8K91X8&dchild=1&keywords=god+in+the+dock+c.s.+lewis&qid=1612498375&sprefix=god+in+the+dock%2Caps%2C232&sr=8-1)
