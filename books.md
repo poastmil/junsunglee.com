@@ -10,4 +10,4 @@ I have a confession to make... I'm addicted to reading.
 
 Below are some of my favorites:
 
-[![God in the Dock](/images/GodInTheDock.jpg "God in the Dock by C.S. Lewis")](https://smile.amazon.com/God-Dock-C-S-Lewis/dp/0802871836)     [![](/images/Antifragile.jpg "Antifragile by Nassim Nicholas Taleb")](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)  
+[![God in the Dock](/images/GodInTheDock.jpg "God in the Dock by C.S. Lewis")](https://smile.amazon.com/God-Dock-C-S-Lewis/dp/0802871836)  [![](/images/Antifragile.jpg "Antifragile by Nassim Nicholas Taleb")](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)  [![](/images/ZeroToOne.jpg "Zero to One by Peter Thiel")](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
