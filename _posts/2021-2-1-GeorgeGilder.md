@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Life After Google | George Gilder
+title: George Gilder
 ---
 
 *What remains scarce when all else is abundant is time.*
