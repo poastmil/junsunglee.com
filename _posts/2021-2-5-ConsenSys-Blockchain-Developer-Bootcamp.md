@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ConsenSys Blockchain Developer Bootcamp
+date: 2021-02-05
 ---
 
 *Some thoughts from the trenches of the 2020 cohort...*
