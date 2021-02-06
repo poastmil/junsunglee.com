@@ -3,7 +3,7 @@ layout: post
 title: ConsenSys Blockchain Developer Bootcamp
 ---
 
-*Some thoughts from the trenches with the 2020 cohort...*
+*Some thoughts from the trenches of the 2020 cohort...*
 
 ### Pros
 - News and information in the cryptocosm is incessant, but **ConsenSys expertly curates presentations, lessons, articles, and resources into a clear and cogent briefing on the state of blockchain (Ethereum) development**. The mentors continued to help us grasp the insider narrative despite the surrounding buzz of Ethereum 2.0 arriving in the middle of our coursework.
