@@ -6,7 +6,7 @@ title: ConsenSys Blockchain Developer Bootcamp
 *Some thoughts from the trenches of the 2020 cohort...*
 
 ### Dear Reader
-I graduated in late December from the 2020 ConsenSys Blockchain Developer Online Bootcamp. The course began in early September and concluded with the final project deadline on November 30 albeit generous extensions granted due to Covid. (As of writing, there are still final projects being submitted and graded.) However, the route from enrollment to certificate proved treacherous and less than 15% of the class succeeded. As such, I feel obliged to warn those considering joining a future cohort, and I hope the following list will help you count the cost.
+I graduated in late December from the 2020 ConsenSys Blockchain Developer Online Bootcamp. The course began in early September and concluded with the final project deadline on November 30 albeit generous extensions granted due to Covid. (As of writing, there are projects still being submitted and graded.) However, the route from enrollment to certificate proved treacherous and less than 15% of the class succeeded. As such, I feel obliged to warn those considering joining a future cohort, and I hope the following list will help you count the cost.
 
 ### Pros
 - ***Curation***. News and information in the [cryptocosm](https://blog.blockstack.org/george-gilder-predicts-life-after-google/) is incessant, but ConsenSys expertly curates presentations, lessons, articles, and resources into a clear and cogent briefing on the state of blockchain (Ethereum) development. The mentors continued to help us grasp the insider narrative despite the surrounding buzz of Ethereum 2.0 arriving in the middle of our coursework.
