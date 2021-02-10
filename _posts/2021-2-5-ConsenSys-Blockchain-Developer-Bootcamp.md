@@ -5,6 +5,8 @@ title: ConsenSys Blockchain Developer Bootcamp
 
 *Some thoughts from the trenches of the 2020 cohort...*
 
+[![Bootcamp logo](../images/ConsenSysBootcamp.jpg "Includes Certification!")](https://consensys.net/academy/bootcamp/) 
+
 ### Dear Reader
 I graduated in late December from the 2020 ConsenSys Blockchain Developer Online Bootcamp. The course began in early September and concluded with the final project deadline on November 30 albeit generous extensions granted due to Covid. (As of writing, there are projects still being submitted and graded.) However, the route from enrollment to certificate proved treacherous and less than 15% of the class succeeded. As such, I feel obliged to warn those considering joining a future cohort, and I hope the following list will help you count the cost.
 
@@ -34,7 +36,7 @@ I graduated in late December from the 2020 ConsenSys Blockchain Developer Online
 - ***Class size***. My cohort ballooned to a size of over 300 students before settling a little over 280. While that nets ConsenSys a breezy $250k, you can imagine the chaos on Slack.
 
 - ***Swindling***. ConsenSys' selling point is to use its clout (["the Microsoft of crypto"](https://www.reddit.com/r/ethereum/comments/b45zov/consensys_academys_developer_bootcamp_is_back/ej4mimo?utm_source=share&utm_medium=web2x&context=3)) to back their certificates upon the successful completion of the bootcamp. There's decent buzz online as [redditors](https://www.reddit.com/r/ethdev/comments/8jwfv5/general_feeling_about_consensys_academy/) consider the cost: 
-  [![Worth it?](../images/ConsenSysBootcamp.PNG "General confusion about the bootcamp's target audience")](https://www.reddit.com/r/ethdev/comments/8jwfv5/general_feeling_about_consensys_academy/) 
+  [![redditors](../images/ConsenSysBootcamp.PNG "General confusion about the bootcamp's target audience")](https://www.reddit.com/r/ethdev/comments/8jwfv5/general_feeling_about_consensys_academy/) 
   
   The fine print recommended at least a year of coding experience with a full tuition refund if you dropout within the first two weeks. The course progresses gradually enough. What they fail to mention until the very end, buried in page 6 of the [final project grading rubric](https://docs.google.com/document/d/1fSiejecMogc2h7aJxIl9tfZbHRFXTipftWLevUKAmQ4/edit): 
   > **A note on project difficulty**: Depending on your current web development skill level, this project may be more or less difficult.
