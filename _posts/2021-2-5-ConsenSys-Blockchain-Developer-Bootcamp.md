@@ -11,7 +11,7 @@ title: ConsenSys Blockchain Developer Bootcamp
 
 I graduated in late December from the 2020 ConsenSys Blockchain Developer Online Bootcamp. The course began in early September and concluded with the final project deadline on November 30 albeit generous extensions granted due to Covid. (As of writing, there are projects still being submitted and graded.) However, the route from enrollment to certificate proved treacherous and less than 15% of the class succeeded. Though I managed to pass, I feel obliged to warn those considering joining a future cohort, and I hope the following list will help you count the cost.
 
-*Note: I have a full-time job, so I was working through the course in the evenings/weekends (~10 hrs/week until I reached the final project)*.
+> Note: I have a full-time job, so I was working through the course in the evenings/weekends (~10 hrs/week until I reached the final project).
 
 ### Pros
 
