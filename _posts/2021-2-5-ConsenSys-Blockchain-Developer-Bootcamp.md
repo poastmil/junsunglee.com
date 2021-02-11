@@ -33,6 +33,8 @@ I graduated in late December from the 2020 ConsenSys Blockchain Developer Online
   
 - ***Tech stack workflow***. [Truffle](https://www.trufflesuite.com/truffle), [Ganache](https://www.trufflesuite.com/ganache), [MetaMask](https://metamask.io/), [Infura](https://infura.io/), [Remix](https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null), [MythX](https://mythx.io/). After several mergers, the bootcamp not only offers hands-on experience with the best-in-class Ethereum tech stack, but guidance from its core developers. 
 
+- ***GitHub projects***. 
+
 - ***[The certificate](https://courses.consensys.net/certificates/w9trgfa8fa)***.
 
 ### Cons
