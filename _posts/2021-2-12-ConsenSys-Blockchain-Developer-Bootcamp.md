@@ -3,7 +3,7 @@ layout: post
 title: ConsenSys Blockchain Developer Bootcamp
 ---
 
-*Thoughts from a 2020 cohort alum...*
+*Thoughts from the trenches of the 2020 cohort...*
 
 [![Bootcamp logo](../images/ConsenSysBootcamp.jpg "ConsenSys Blockchain Developer Online Bootcamp")](https://consensys.net/academy/bootcamp/) 
 
