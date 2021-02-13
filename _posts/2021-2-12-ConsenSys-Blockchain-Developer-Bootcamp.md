@@ -68,6 +68,4 @@ Now in order to get the certificate, one must submit a working project as this i
 
 ## CODA
 
-> The fool knows after he's suffered. 
-> 
-> - Hesiod
+*The fool knows after he's suffered.*  - Hesiod
