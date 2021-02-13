@@ -10,7 +10,7 @@ title: ConsenSys Blockchain Developer Bootcamp
 
 ## Dear Reader
 
-I graduated in late December from the 2020 ConsenSys Blockchain Developer Online Bootcamp, which began in early September and concluded November 30. This was my first bootcamp experience and though I managed to get my certificate, the road from enrollment to certification proved treacherous (less than 15% of my class succeeded). Thus, I feel obliged to warn those considering joining a future cohort, especially aspiring devs, and I hope the following list will help you weigh the cost.
+I graduated in late December from the 2020 ConsenSys Blockchain Developer Online Bootcamp, which began in early September and concluded November 30. This was my first bootcamp and I managed to get the certificate, but the road from enrollment to certification proved treacherous (less than 15% of my class succeeded). Thus, I feel obliged to warn those considering joining a future cohort, especially aspiring devs, and I hope the following list will help you weigh the cost.
 
 
 ## Pros
@@ -59,7 +59,7 @@ I graduated in late December from the 2020 ConsenSys Blockchain Developer Online
 
 ## Advice
 
-- ***Finish [CryptoZombies](https://cryptozombies.io/en/course/)***. I worked through the [CryptoZombies](https://cryptozombies.io/en/course/) Beginner to Intermediate lessons after the bootcamp and am now finishing the Advanced lessons, but I wish I'd done this material beforehand! The CryptoZombies course goes through the bulk of what ConsenSys teaches on Solidity, which will allow you to finish the course quickly and afford you more time to work on your final project.
+- ***Finish [CryptoZombies](https://cryptozombies.io/en/course/)***. I worked through the [CryptoZombies](https://cryptozombies.io/en/course/) Beginner to Intermediate lessons after the bootcamp and am now finishing the Advanced lessons, but I wish I'd done this material beforehand! The course is free and goes through the bulk of what ConsenSys teaches on Solidity in an un-tedious manner, which will allow you to understand concepts and finish the course quickly, afford you precious time to work on your final project.
 
 - ***Focus on the final project***. Whether a seasoned dev or a newbie, the most sensible thing to do is to get as much time as possible to work on the final project. First, you need it to work and hit all the requirements to pass, and second, ConsenSys has its eyes out for talent and the final project is the best way to get their notice if you're interested in work/career opportunities. I was working full-time and also preparing for a work-related certificate simultaneously, so I only had evenings and weekends for the bootcamp, but I managed to pass by the skin of my teeth. If I were to do it over again, I'd schedule the bootcamp for when I have as much time as possible.
 
