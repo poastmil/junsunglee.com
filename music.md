@@ -6,6 +6,6 @@ permalink: /music/
 
 Music has been a part of my life for as long as I can remember. Some of my earliest childhood memories are of my mom forcing me to practice scales on the piano and of rocking out for hours to my dad's record collection.
 
-Below are some of my favorite albums:
+Below are some of my favorites:
 
-[![Untrue](/images/music/Untrue.jpg "Untrue by Burial")](https://burial.bandcamp.com/album/untrue)  
+[![Untrue](/images/music/Untrue.jpg "Untrue by Burial")](https://burial.bandcamp.com/album/untrue)  [![Discovery](/images/music/Discovery.jpg "Discovery by Rivers & Robots")](https://riversrobots.lnk.to/Discovery)  
