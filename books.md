@@ -4,6 +4,8 @@ title: Books
 permalink: /books/
 ---
 
+[![](../images/books/JunReads.jpg "Jun reading a horrid book")](https://www.goodreads.com/review/show/3056090055) 
+
 I have a confession to make... I'm addicted to reading.
 - [Goodreads](https://www.goodreads.com/user/show/74709390-jun-sung-lee)
 - [Help fuel my habit!](https://www.amazon.com/hz/wishlist/ls/23VPKR94OL7XY?ref_=wl_share)
