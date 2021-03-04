@@ -4,7 +4,7 @@ title: Books
 permalink: /books/
 ---
 
-[![](../images/books/JunLastBookstore.jpg "Jun @ The Last Bookstore")](https://www.lastbookstorela.com/)  [![](../images/books/JunReads.jpg "Jun reading a horrid book")](https://www.goodreads.com/review/show/3056090055) 
+[![](../images/books/JunReads.jpg "Jun reading a horrid book")](https://www.goodreads.com/review/show/3056090055) 
 
 I have a confession to make... I'm addicted to reading.
 - [Goodreads](https://www.goodreads.com/user/show/74709390-jun-sung-lee)
