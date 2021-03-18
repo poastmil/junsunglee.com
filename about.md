@@ -10,4 +10,4 @@ I graduated with a Bachelors in History from the University of Washington, but I
 
 I'm using this platform to document my journey from finance to DeFi; but more importantly, I hope it will encourage those of us out there with liberal arts degrees "taking the road less traveled."
 
-You can reach me at [jun@junsung.io](jun@junsung.io).
+If you'd like me to help you with taxes, represent you before the IRS, or talk blockchain, you can reach me at [jun@junsung.io](jun@junsung.io).
