@@ -38,4 +38,6 @@ You can reach me with any burning questions at [jun@junsung.io](jun@junsung.io).
 
 ## CODA
 
-*If you have been having trouble with the tax authorities and you receive an official piece of mail from their agency, your blood pressure will increase or drop precipitously. Your heart will pound, your palms will sweat, and a feeling of intense fear, even doom, will sweep over you.* -- Jordan B. Peterson, [*Beyond Order*](https://smile.amazon.com/Beyond-Order-More-Rules-Life/dp/0593084640)
+*If you have been having trouble with the tax authorities and you receive an official piece of mail from their agency, your blood pressure will increase or drop precipitously. Your heart will pound, your palms will sweat, and a feeling of intense fear, even doom, will sweep over you.* 
+
+-- Jordan B. Peterson, [*Beyond Order*](https://smile.amazon.com/Beyond-Order-More-Rules-Life/dp/0593084640)
