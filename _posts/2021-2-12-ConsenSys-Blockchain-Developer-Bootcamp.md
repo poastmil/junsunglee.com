@@ -70,4 +70,6 @@ You can reach me with any burning questions at [jun@junsung.io](jun@junsung.io).
 
 ## CODA
 
-*The fool knows after he's suffered.* -- Hesiod
+*The fool knows after he's suffered.* 
+
+-- Hesiod
