@@ -68,6 +68,6 @@ I graduated in late December from the [2020 ConsenSys Blockchain Developer Onlin
 If you have burning questions, you can reach me at [jun@junsung.io](jun@junsung.io).
 
 ## CODA
-> The fool knows after he's suffered.
+> **The fool knows after he's suffered.**
 >
-> - Hesiod
+> Hesiod

@@ -28,7 +28,7 @@ Hopefully, you've gleaned from the aformentioned story that an EA is one of thre
 I began studying for the SEE in September 2020 using [Gleim EA Review](https://www.gleim.com/enrolled-agent-review/), taking exams 1-3 on Oct 19, Dec 4, and Dec 18 respectively. Gleim recommends that you set aside 8 weeks for parts 1 and two, and 6 weeks for part 3 (roughly 4 months); and as the exams can be taken in any order, Reddit strongly advises taking part 3 (considered the easiest), then part1 and part2 (the toughest). As long as you don't take part2 first, I think every other combination is fine. (There are other review providers like [Passkey](https://www.passkeyonline.com/) and [Surgent](https://www.surgent.com/ea-exam-review/), though I can't attest to their effectiveness.)
 
 ### Using Gleim
-Gleim's readings are so dry, you'll likely procrastinate-- at least as you study for the first exam. As you'll have little intuition as to what the experience will be like, your imagination will run amok, making the first exam the most psychologically difficult to prepare for. (You can sign up for a mock run at [Prometric](https://www.prometric.com/test-takers/search/irs) if it'll help your nerves.) While Gleim is exceedingly bland, their selling point is their large test bank
+Gleim's readings are so dry, you'll likely procrastinate-- at least as you study for the first exam. As you'll have little intuition as to what the experience will be like, your imagination will run amok, making the first exam the most psychologically difficult to prepare for. (Though you can sign up for a [mock run](https://www.prometric.com/test-takers/search/irs), I can't recommend spending any more time than you have to at these testing centers.) While Gleim is exceedingly bland, their selling point is their large test bank and I think it was ~65% useful.
 
 ### Prometric Testing
 Now the exams should be a straightforward test to see whether you know the material or not, but nooo-- the IRS decided to go with trick questions. 
@@ -38,5 +38,6 @@ If you have burning questions, you can reach me at [jun@junsung.io](jun@junsung.
 
 ## CODA
 
-> If you have been having trouble with the tax authorities and you receive an official piece of mail from their agency, your blood pressure will increase or drop precipitously. Your heart will pound, your palms will sweat, and a feeling of intense fear, even doom, will sweep over you.
+> **If you have been having trouble with the tax authorities and you receive an official piece of mail from their agency, your blood pressure will increase or drop precipitously. Your heart will pound, your palms will sweat, and a feeling of intense fear, even doom, will sweep over you.**
+>
 > Jordan B. Peterson, [*Beyond Order*](https://smile.amazon.com/Beyond-Order-More-Rules-Life/dp/0593084640)
