@@ -15,7 +15,7 @@ On February 12, in the midst of Seattle’s snow storm of the century, USPS hero
 
 ### A byte of backstory
 
-My boss offered to finance my EA license after the 2020 tax season. Unfortunately, his offer came a day or two after I’d enrolled in the [ConsenSys Blockchain Developer Bootcamp](https://junsung.io/ConsenSys-Blockchain-Developer-Bootcamp/), so studying for the Special Enrollment Exams (SEE) began in tandem with the bootcamp. Fortunately, the IRS was so fantastically backlogged from not working during Covid that all of our clients’ filing extensions (including quarterly payments, audit follow-ups, etc.) had been sitting unopened in their mailroom. We soon learned that the IRS refused to halt their automatated serving of penalties despite their unread mail and our repeated attempts to stop them. Thus, this bureaucratic ineptitude resulted in client after client calling to know why they’d paid all this money to our firm who'd failed to do something as simple and prudent as filing an extension. I noticed an immediate graying in my boss's hair. Normally, I'd be helping him untangle such a crisis, but nay-- only attorneys, CPAs, and EAs are allowed to correspond with the IRS. Hence, my boss not only financed my way to becoming an EA, but even offered to let me study for my exams during work hours if I agreed to attempt all three parts of the SEE within a 3 month window. Needless to say, such an offer is difficult to refuse.
+My boss offered to finance my EA license after the 2020 tax season. Unfortunately, his offer came a day or two after I’d enrolled in the [ConsenSys Blockchain Developer Bootcamp](https://junsung.io/ConsenSys-Blockchain-Developer-Bootcamp/), so studying for the Special Enrollment Exams (SEE) began in tandem with the bootcamp. Fortunately, the IRS was so fantastically backlogged from not working during Covid that all of our clients’ filing extensions (including quarterly payments, audit follow-ups, etc.) had been sitting unopened in their mailroom. We soon learned that the IRS refused to halt their automated serving of penalties despite not reading their mail and ignoring our repeated attempts to stop them. Thus, this bureaucratic ineptitude resulted in client after client calling to know why they’d paid all this money to our firm who'd failed to do something as simple and prudent as filing an extension. I noticed an immediate graying in my boss's hair. Normally, I'd be helping him untangle such a crisis, but nay-- only attorneys, CPAs, and EAs are allowed to correspond with the IRS. Hence, my boss not only financed my way to becoming an EA, but even offered to let me study for my exams during work hours if I agreed to attempt all three parts of the SEE within a 3 month window. Needless to say, such an offer is difficult to refuse.
 
 
 ## FAQs
@@ -44,14 +44,14 @@ Perhaps this is to get us all used to the idea that rather than being straightfo
 
 ### Using Gleim
 
-Gleim's material is some of the driest reading I've come across, but each section has been methodically prepared to cover all bases. Their selling point is their large test bank and I found it useful as their tests are formatted to be identical to the one you'll be encountering at a Prometric testing site, except in one regard, which I'll describe below. 
+[Gleim's material](https://www.gleim.com/enrolled-agent-review/) is some of the driest reading I've come across, but each section has been methodically prepared to cover all bases. Their selling point is their large test bank and I found it useful as their tests are formatted to be identical to the one you'll be encountering at a Prometric testing site, except in one regard, which I'll describe below. 
 
 As you'll have little idea of what the testing experience is like, it's important to feel as prepared as possible for the first exam. After your first victory, I think you'll settle into a groove, having developed better intuition on what/how to study.
 
 
 ### Prometric Testing
 
-If your nerves are fraying, you can sign up for a [mock run](https://www.prometric.com/test-takers/search/irs), but I can't recommend spending any more time at these testing centers than necessary. Perhaps your locale is more friendly; mine was a little corner of hell.
+If you find your nerves fraying, you can sign up for a [mock run](https://www.prometric.com/test-takers/search/irs), though I can't recommend spending any more time at these testing centers than necessary. Perhaps your locale is more friendly; mine was a little corner of hell.
 
 Now the aspect that Gleim did not prepare me for was the fact that the actual exam is in two parts. The Gleim practice exam consists of 100 questions to be completed in 3hrs, but the actual exam is 2hrs 45mins without the possibility of returning to the first fifty questions if you begin working on the latter half. My strategy was to give myself roughly 1hr 30mins on the first half, combing through every question at least 3 times before moving to the second half. It's painful to find a hint to one of the troublesome questions from the first half in the second. 
 
