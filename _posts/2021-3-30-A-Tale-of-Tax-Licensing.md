@@ -51,12 +51,13 @@ As you'll have little idea of what the testing experience is like, it's importan
 
 If your nerves are fraying, you can sign up for a [mock run](https://www.prometric.com/test-takers/search/irs), but I can't recommend spending any more time at these testing centers than necessary. Perhaps your locale is more friendly; mine was a little corner of hell.
 
-Now the aspect that Gleim did not prepare me for was the fact that the actual exam is in two parts. The Gleim practice exam runs consists of 100 questions to be completed in 3 hours, but the actual exam is 2hrs 45mins without the possibility of returning to the first half of the test if you begin working on the second. My strategy was to give myself roughly 1hr 30mins on the first half, combing through every question at least 3 times before moving to the second half. It's a painful feeling to get to the second half of the exam, finding a hint to one of the troublesome questions from the first half, but now unable to fix it. 
+Now the aspect that Gleim did not prepare me for was the fact that the actual exam is in two parts. The Gleim practice exam consists of 100 questions to be completed in 3hrs, but the actual exam is 2hrs 45mins without the possibility of returning to the first fifty questions if you begin working on the latter half. My strategy was to give myself roughly 1hr 30mins on the first half, combing through every question at least 3 times before moving to the second half. It's painful to find a hint to one of the troublesome questions from the first half in the second. 
 
 If you're taking the SEE, I hope you experience the same gratitude I felt to my God for passing each exam on the first run. 
 
 
 ### Not Using Gleim
+
 Here's an alternate route:
 
 [![Reddit2](../images/EAPasskey.png "A Redditor shares their story")](https://www.reddit.com/r/taxpros/comments/7nx16x/how_long_did_it_take_to_pass_the_ea_exam/)  
