@@ -33,7 +33,7 @@ I began studying in September 2020 using [Gleim's EA Review](https://www.gleim.c
 
 ![SEE Results](../images/SEE.png)  
 
-Part1 tests you on Individual returns, Part2 on Business, and Part 3 covers Client Representation & Ethics. Gleim recommends that you set aside 8 weeks each for parts 1 and 2, and 6 weeks for part3; and as the exams can be taken in any order, the Reddit consensus advises taking part3 (considered the easiest), followed by part1 and part2 (the toughest). The idea is to get a small win under your belt, which will motivate you to keep going. Although I agree that part2 is tough, I found part3 equally, if not more stressful due to its insidious trick questions. (Rather than being straightforward in determining whether or not you know your way around Circular 230, the IRS prefers psychological jujitsu.) [Gleim recommends](https://www.gleim.com/enrolled-agent-review/blog/ea-exam-study-schedule-tcja/) taking the SEE in sequential order since each part builds upon each other. Part2 does indeed have many overlapping parts with part1
+Part1 tests you on Individual returns, Part2 on Business, and Part 3 covers Client Representation (and Ethics). Gleim recommends that you set aside 8 weeks each for parts 1 and 2, and 6 weeks for part3; and as the exams can be taken in any order, the general consensus advises taking part3 (considered easiest), followed by part1 and part2 (the toughest). The idea is to get a small win under your belt, which will motivate you to keep going and finish strong. [Gleim also recommends](https://www.gleim.com/enrolled-agent-review/blog/ea-exam-study-schedule-tcja/) taking the SEE in sequential order since each part builds upon each other. Part2 does indeed have many overlapping parts with part1; while I agree that part2 shouldn't be taken first, I found part3 the most stressful due to its insidious trick questions. (Rather than being straightforward in determining whether or not you know your way around Circular 230, the IRS prefers psychological jujitsu.) 
 
 
 ### Using Gleim
@@ -43,7 +43,7 @@ Gleim's readings are so dry, you'll likely procrastinate-- at least as you study
 
 ### Prometric Testing
 
-by having you answer trick questions in a mock concentration camp. 
+
 
 
 
