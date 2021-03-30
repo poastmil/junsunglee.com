@@ -35,9 +35,11 @@ I began my studies in September 2020 using [Gleim's EA Review](https://www.gleim
 
 SEE-1 tests on Individual returns, SEE-2 on Business, and SEE-3 covers Client Representation (Ethics). [Gleim recommends](https://www.gleim.com/enrolled-agent-review/blog/ea-exam-study-schedule-tcja/) setting aside 8 weeks each for SEE 1-2, and 6 weeks for SEE-3; and as the exams can be taken in any order, [Reddit advises](https://www.reddit.com/r/taxpros/comments/7nx16x/how_long_did_it_take_to_pass_the_ea_exam/) taking part3 (considered easiest), followed by part1 and part2 (the toughest). 
 
+This is essentially the snowball effect: getting small wins under your belt, which will motivate you in tackling bigger challenges and eventually finishing strong. [Gleim also recommends](https://www.gleim.com/enrolled-agent-review/blog/ea-exam-study-schedule-tcja/) taking the SEE in sequence since each successive part builds upon the one before. Now I agree that SEE 1-2 have many overlapping parts, but one should be wary about about the supposed easiness of SEE-3 as I felt that part to be unnecessarily tricky with the questions being insidiously worded. This Redditor had a similar experience:
+
 [![Reddit1](../images/EAPrometric.png "Reddit community answers to EA FAQs")](https://www.reddit.com/r/taxpros/comments/7nx16x/how_long_did_it_take_to_pass_the_ea_exam/)  
 
-This is essentially the snowball effect: getting small wins under your belt, which will motivate you in tackling bigger challenges and eventually finishing strong. [Gleim also recommends](https://www.gleim.com/enrolled-agent-review/blog/ea-exam-study-schedule-tcja/) taking the SEE in sequence since each successive part builds upon the one before. Now I agree that SEE 1-2 have many overlapping parts, but one should be wary about about the supposed easiness of SEE-3 as I felt that part to be unnecessarily tricky with the questions being insidiously worded. I suppose one should get used to the idea that rather than being straightforward in determining whether or not you know your way around Circular 230, the IRS prefers psychological jujitsu.
+Perhaps this is to get us all used to the idea that rather than being straightforward, the IRS prefers psychological jujitsu.
 
 
 ### Using Gleim
