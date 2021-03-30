@@ -37,7 +37,7 @@ SEE-1 tests on Individual returns, SEE-2 on Business, and SEE-3 covers Client Re
 
 [![Reddit1](../images/EAPrometric.png "Reddit community answers to EA FAQs")](https://www.reddit.com/r/taxpros/comments/7nx16x/how_long_did_it_take_to_pass_the_ea_exam/)  
 
-The idea is to generate the snowball effect: getting small wins under your belt, which will motivate you to tackle bigger challenges and eventually finish strong. [Gleim also recommends](https://www.gleim.com/enrolled-agent-review/blog/ea-exam-study-schedule-tcja/) taking the SEE in sequence since each successive part builds upon the one before. Now I agree that SEE 1 and 2 have many overlapping parts, but I can't recommend taking SEE-3 first as I feel they've made that part unnecessarily tricky with the questions being insidiously worded. (Rather than being straightforward in determining whether or not you know your way around Circular 230, the IRS prefers psychological jujitsu.) 
+This is essentially the snowball effect: getting small wins under your belt, which will motivate you in tackling bigger challenges and eventually finishing strong. [Gleim also recommends](https://www.gleim.com/enrolled-agent-review/blog/ea-exam-study-schedule-tcja/) taking the SEE in sequence since each successive part builds upon the one before. Now I agree that SEE 1-2 have many overlapping parts, but one should be wary about about the supposed easiness of SEE-3 as I felt that part to be unnecessarily tricky with the questions being insidiously worded. I suppose one should get used to the idea that rather than being straightforward in determining whether or not you know your way around Circular 230, the IRS prefers psychological jujitsu.
 
 
 ### Using Gleim
@@ -58,7 +58,7 @@ If you're taking the SEE, I hope you experience the same gratitude I felt to my 
 
 ### Not Using Gleim
 
-Here's an alternate route:
+An alternate route:
 
 [![Reddit2](../images/EAPasskey.png "A Redditor shares their story")](https://www.reddit.com/r/taxpros/comments/7nx16x/how_long_did_it_take_to_pass_the_ea_exam/)  
 
