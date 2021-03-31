@@ -12,8 +12,9 @@ title: A Tale of Tax Licensing
 
 On February 12, in the midst of Seattle’s snow storm of the century, USPS heroically delivered the news that I’d become an IRS Enrolled Agent (EA). The road to obtaining this license is psychologically taxing due to having to familiarize oneself with Circular 230 (US Tax Law), which quickly reveals its kinship to the nine-headed hydra of olde. I also believe the EA is not well-known and therefore not well-understood, so I hope the following will help those considering their services as well as encourage those who are preparing for the exams. 
 
-**If you'd like me to help you with taxes or represent you before the IRS, you can reach me at* [jun@junsung.io](jun@junsung.io).
+\* *If you'd like me to help you with taxes or the IRS, you can reach me at* <jun@junsung.io>.
 
+---
 
 ### A byte of backstory
 
@@ -69,6 +70,7 @@ An alternate route:
 
 You can reach me with any burning questions at [jun@junsung.io](jun@junsung.io).
 
+---
 
 ## CODA
 
