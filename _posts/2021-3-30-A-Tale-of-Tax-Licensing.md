@@ -12,6 +12,8 @@ title: A Tale of Tax Licensing
 
 On February 12, in the midst of Seattle’s snow storm of the century, USPS heroically delivered the news that I’d become an IRS Enrolled Agent (EA). The road to obtaining this license is psychologically taxing due to having to familiarize oneself with Circular 230 (US Tax Law), which quickly reveals its kinship to the nine-headed hydra of olde. I also believe the EA is not well-known and therefore not well-understood, so I hope the following will help those considering their services as well as encourage those who are preparing for the exams. 
 
+**If you'd like me to help you with taxes or represent you before the IRS, you can reach me at* [jun@junsung.io](jun@junsung.io).
+
 
 ### A byte of backstory
 
@@ -23,8 +25,8 @@ My boss offered to finance my EA license after the 2020 tax season. Unfortunatel
 I hope you've gleaned from the aformentioned story that
 - An EA is one of three licensed practitioners who may represent a client before the IRS, and that 
 - The candidate must past a three-part exam known as the SEE. 
-- While attorneys and CPAs are registered to practice within their home state, the EA has *unlimited rights*-- meaning, the EA is the most flexible in fighting the US Tax hydra regardless of locale. 
-- Thus, **I believe the EA is advantageous for tax legalities within remote teams and organizations**. 
+- While attorneys and CPAs are registered to practice within their home state, the EA has *unlimited rights*-- meaning, the EA is the most flexible in fighting the US Tax hydra regardless of locale. Thus,
+- **I believe the EA is advantageous for tax legalities within remote teams and organizations**. 
 
 
 ## SEE Prep Advice
