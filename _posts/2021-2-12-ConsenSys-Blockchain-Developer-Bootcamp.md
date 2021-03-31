@@ -12,6 +12,7 @@ title: ConsenSys Blockchain Developer Bootcamp
 
 I graduated in late December from the [2020 ConsenSys Blockchain Developer Online Bootcamp](https://consensys.net/academy/bootcamp/), which began in early September and concluded November 30. This was my first bootcamp and I managed to get the certificate, but the road from enrollment to certification proved treacherous (less than 15% of my class succeeded). Thus, I feel obliged to warn those considering joining a future cohort, especially aspiring devs, and I hope the following list will help you weigh the cost.
 
+---
 
 ## Pros
 
@@ -65,8 +66,9 @@ I graduated in late December from the [2020 ConsenSys Blockchain Developer Onlin
 
 - ***Know JavaScript***. I think JavaScript is as essential as Solidity, if not more so in developing dapps. [CryptoZombies](https://cryptozombies.io/en/course/) affirms that the accepted conventions for smart contract testing is in JS. You can [see for yourself](https://github.com/jun-sung?tab=stars) the Solidity to JS ratio of other students' final projects. While the first 11 chapters of the bootcamp could be finished in 2 weeks (that's what the abovementioned [MetaMask intern](https://github.com/astarinmymind) managed to do), spending the remaining time scrambling to learn enough JS in order to build a passing project isn't ideal.
 
-You can reach me with any burning questions at [jun@junsung.io](jun@junsung.io).
+You can reach me with any burning questions at <jun@junsung.io>.
 
+---
 
 ## CODA
 
