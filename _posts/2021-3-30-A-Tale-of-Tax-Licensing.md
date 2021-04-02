@@ -68,6 +68,10 @@ An alternate route:
 [![Reddit2](../images/EAPasskey.png "A Redditor shares their story")](https://www.reddit.com/r/taxpros/comments/7nx16x/how_long_did_it_take_to_pass_the_ea_exam/)  
 
 
+### Post-Exam
+
+The careful reader might've noticed that I completed the SEE in December, but didn't receive the news of my enrollment til February. One does not simply become enrolled after the exams; the IRS can deny your application they find your background and tax history questionable. So after coughing up the application fee, the IRS performs a minor audit and you learn to empathize with future clients.
+
 You can reach me with any burning questions at [jun@junsung.io](jun@junsung.io).
 
 ---
@@ -76,4 +80,4 @@ You can reach me with any burning questions at [jun@junsung.io](jun@junsung.io).
 
 *If you have been having trouble with the tax authorities and you receive an official piece of mail from their agency, your blood pressure will increase or drop precipitously. Your heart will pound, your palms will sweat, and a feeling of intense fear (even doom) will sweep over you.* 
 
--- Jordan B. Peterson, [*Beyond Order*](https://smile.amazon.com/Beyond-Order-More-Rules-Life/dp/0593084640)
+-- Jordan B. Peterson, [*Beyond Order*](https://www.amazon.com/Beyond-Order-More-Rules-Life/dp/0593084640)
