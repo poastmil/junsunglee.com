@@ -18,14 +18,14 @@ On February 12, in the midst of Seattle’s snow storm of the century, USPS hero
 
 ### A byte of backstory
 
-My boss offered to finance my EA license after the 2020 tax season. Unfortunately, his offer came a day or two after I’d enrolled in the [ConsenSys Blockchain Developer Bootcamp](https://junsung.io/ConsenSys-Blockchain-Developer-Bootcamp/), so studying for the Special Enrollment Exams (SEE) began in tandem with the bootcamp. Fortunately, the IRS was so fantastically backlogged from not working during Covid that all of our clients’ filing extensions (including quarterly payments, audit follow-ups, etc.) had been sitting unopened in their mailroom. We soon learned that the IRS refused to halt their automated serving of penalties despite not reading their mail and ignoring our repeated attempts to stop them. Thus, this bureaucratic ineptitude resulted in client after client calling to know why they’d paid all this money to our firm who'd failed to do something as simple and prudent as filing an extension. I noticed an immediate graying in my boss's hair. Normally, I'd be helping him untangle such a crisis, but nay-- only attorneys, CPAs, and EAs are allowed to correspond with the IRS. Hence, my boss not only financed my way to becoming an EA, but even offered to let me study for my exams during work hours if I agreed to attempt all three parts of the SEE within a 3 month window. Needless to say, such an offer is difficult to refuse.
+My boss offered to finance my EA license after the 2020 tax season. Unfortunately, his offer came a day or two after I’d enrolled in the [ConsenSys Blockchain Developer Bootcamp](https://junsung.io/ConsenSys-Blockchain-Developer-Bootcamp/), so studying for the Special Enrollment Exams (SEE) began in tandem with the bootcamp. Fortunately, the IRS was so fantastically backlogged from not working during Covid that all of our clients’ filing extensions (including quarterly payments, audit follow-ups, etc.) had been sitting unopened in their mailroom. We soon learned that the IRS refused to halt their automated serving of penalties despite not reading their mail and ignoring our repeated attempts to stop them. Thus, this bureaucratic ineptitude resulted in client after client calling to know why they’d paid all this money to our firm who'd failed to do something as simple and prudent as filing an extension. I noticed an immediate graying in my boss's hair. Normally, I'd be helping him untangle such a crisis, but nay-- only attorneys, CPAs, and EAs are allowed to correspond with the IRS. Hence, my boss not only financed my way to becoming an EA, but even offered to let me study for my exams during work hours if I agreed to attempt all 3 parts of the SEE within a 3 month window. Needless to say, such an offer is difficult to refuse.
 
 
 ## FAQs
 
 I hope you've gleaned from the aformentioned story that
 - An EA is one of three licensed practitioners who may represent a client before the IRS, and that 
-- The candidate must past a three-part exam known as the SEE. 
+- The candidate must past a 3-part exam known as the SEE. 
 - While attorneys and CPAs are registered to practice within their home state, the EA has *unlimited rights*-- meaning, the EA is the most flexible in fighting the US Tax hydra regardless of locale. Thus,
 - **I believe the EA is advantageous for tax legalities within remote teams and organizations**. 
 
@@ -36,7 +36,7 @@ I began my studies in September 2020 using [Gleim's EA Review](https://www.gleim
 
 ![SEE Results](../images/SEE.png)  
 
-SEE-1 tests on Individual returns, SEE-2 on Business, and SEE-3 covers Client Representation (Ethics). [Gleim recommends](https://www.gleim.com/enrolled-agent-review/blog/ea-exam-study-schedule-tcja/) setting aside 8 weeks each for SEE 1-2, and 6 weeks for SEE-3; and as the exams can be taken in any order, [Reddit advises](https://www.reddit.com/r/taxpros/comments/7nx16x/how_long_did_it_take_to_pass_the_ea_exam/) taking part3 (considered easiest), followed by part1 and part2 (the toughest). 
+SEE-1 tests on Individual returns, SEE-2 on Business, and SEE-3 covers Client Representation (Ethics). [Gleim recommends](https://www.gleim.com/enrolled-agent-review/blog/ea-exam-study-schedule-tcja/) setting aside 8 weeks each for SEE 1-2, and 6 weeks for SEE-3; and as the exams can be taken in any order, [Reddit advises](https://www.reddit.com/r/taxpros/comments/7nx16x/how_long_did_it_take_to_pass_the_ea_exam/) taking SEE-3 (considered easiest), followed by SEE-1 and SEE-2 (the toughest). 
 
 This is essentially the snowball effect: getting small wins under your belt, which will motivate you in tackling bigger challenges and eventually finishing strong. [Gleim also recommends](https://www.gleim.com/enrolled-agent-review/blog/ea-exam-study-schedule-tcja/) taking the SEE in sequence since each successive part builds upon the one before. Now I agree that SEE 1-2 have many overlapping parts, but one should be wary about about the supposed easiness of SEE-3 as I felt that part to be unnecessarily tricky with the questions being insidiously worded. This Redditor had a similar experience:
 
@@ -56,7 +56,7 @@ As you'll have little idea of what the testing experience is like, it's importan
 
 If you find your nerves fraying, you can sign up for a [mock run](https://www.prometric.com/test-takers/search/irs), though I can't recommend spending any more time at these testing centers than necessary. Perhaps your locale is more friendly; mine was a little corner of hell.
 
-Now the aspect that Gleim did not prepare me for was the fact that the actual exam is in two parts. The Gleim practice exam consists of 100 questions to be completed in 3hrs, but the actual exam is 2hrs 45mins without the possibility of returning to the first fifty questions if you begin working on the latter half. My strategy was to give myself roughly 1hr 30mins on the first half, combing through every question at least 3 times before moving to the second half. It's painful to find a hint to one of the troublesome questions from the first half in the second. 
+Now the aspect that Gleim did not prepare me for was the fact that the actual exam is divied in two. The Gleim practice exam consists of 100 questions to be completed in 3hrs, but the actual exam is 2hrs 45mins without the possibility of returning to the first fifty questions if you begin working on the latter half. My strategy was to give myself roughly 1hr 30mins on the first half, combing through every question at least 3 times before moving to the second half. It's painful to find a hint in the second half to a question you now realize you missed in the first half. 
 
 If you're taking the SEE, I hope you experience the same gratitude I felt to my God for passing each exam on the first run. 
 
@@ -71,6 +71,8 @@ An alternate route:
 ### Post-Exam
 
 The careful reader might've noticed that I completed the SEE in December, but didn't receive the news of my enrollment til February. One does not simply become enrolled after the exams; the IRS can deny your application they find your background and tax history questionable. So after coughing up the application fee, the IRS performs a minor audit and you learn to empathize with future clients.
+
+And like an attorney or CPA, EAs must log 72 hours of continuing education every 3 years with a minimum of 16 hours per year (two of which must be on ethics) in order to maintain their license.
 
 You can reach me with any burning questions at [jun@junsung.io](jun@junsung.io).
 
