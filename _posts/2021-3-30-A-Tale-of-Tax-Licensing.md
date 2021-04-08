@@ -72,7 +72,9 @@ An alternate route:
 
 The careful reader might've noticed that I completed the SEE in December, but didn't receive the news of my enrollment til February. One does not simply become enrolled after the exams; the IRS can deny your application they find your background and tax history questionable. So after coughing up the application fee, the IRS performs a minor audit and you learn to empathize with future clients.
 
-And like an attorney or CPA, EAs must log 72 hours of continuing education every 3 years with a minimum of 16 hours per year (two of which must be on ethics) in order to maintain their license.
+Upon successful enrollment, you need to setup your [e-services account](https://www.irs.gov/e-services) for receiving transcripts of client tax documents from the IRS via [Secure Object Repository (SOR)](https://la2.www4.irs.gov/eauth/pub/login.jsp?Data=VGFyZ2V0TG9BPUY%253D&TYPE=33554433&REALMOID=06-000182c7-65a1-17e7-9a3f-483c0adb40b7&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=UOkC7yx4eMTO24FGxPfBRb5q3Mj3Xh3pyXfBEjYyHJ97nGCXu16wx5MzFHjfZmlG&TARGET=-SM-https%3a%2f%2fla2%2ewww4%2eirs%2egov%2fsemail%2fviews%2flist_mail). And after your first faxed Power of Attorney (POA), you will be assigned your new CAF number. 
+
+Like attorneys and CPAs, EAs must log 72 hours of continuing education every 3 years with a minimum of 16 hours per year (two of which must be on ethics) in order to maintain their license.
 
 You can reach me with any burning questions at [jun@junsung.io](jun@junsung.io).
 
