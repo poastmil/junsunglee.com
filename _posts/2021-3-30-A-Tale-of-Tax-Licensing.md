@@ -74,7 +74,16 @@ The careful reader might've noticed that I completed the SEE in December, but di
 
 Upon successful enrollment, you need to setup your [e-services account](https://www.irs.gov/e-services) for receiving transcripts of client tax documents from the IRS via [Secure Object Repository (SOR)](https://la2.www4.irs.gov/eauth/pub/login.jsp?Data=VGFyZ2V0TG9BPUY%253D&TYPE=33554433&REALMOID=06-000182c7-65a1-17e7-9a3f-483c0adb40b7&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=UOkC7yx4eMTO24FGxPfBRb5q3Mj3Xh3pyXfBEjYyHJ97nGCXu16wx5MzFHjfZmlG&TARGET=-SM-https%3a%2f%2fla2%2ewww4%2eirs%2egov%2fsemail%2fviews%2flist_mail). And after your first faxed Power of Attorney (POA), you will be assigned your new CAF number. 
 
-Like attorneys and CPAs, EAs must log 72 hours of continuing education every 3 years with a minimum of 16 hours per year (two of which must be on ethics) in order to maintain their license. I currently use [Sequoia CPE](https://www.sequoiacpe.com/ea/OaoKn).
+
+### Continuing Education (CE/CPE) Credits
+
+Like attorneys and CPAs, EAs must log 72 hours of continuing education (CE/CPE) every 3 years with a minimum of 16 hours per year (two of which must be on ethics) in order to maintain their license. 
+
+If you purchased [Gleim's Premium Review package](https://www.gleim.com/enrolled-agent-review/courses/premium/?auth=e095f041-87c9-4409-855e-33610d6fac8a), you'll receive 72 hours of CE for finishing the exams, as well as 4 hours per successful exam (send screenshots of your results to [personalcounselor@gleim.com](personalcounselor@gleim.com)), for up to 84 hours to use on Gleim's CE marketplace! 
+
+*NOTE:* As soon as you confirm with Gleim about passing the tests, the CE expiration countdown timer initiates. Gleim gives you two years to use the 72 hours bundled with the [Premium Review](https://www.gleim.com/enrolled-agent-review/courses/premium/?auth=e095f041-87c9-4409-855e-33610d6fac8a) and only one year to use the 12 hours given for successful completion of the exams.
+
+I currently use a combination of Gleim and [Sequoia CPE](https://www.sequoiacpe.com/ea/OaoKn) for meeting the CE requirements.
 
 You can reach me with any burning questions at [jun@junsung.io](jun@junsung.io).
 
