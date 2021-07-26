@@ -1,3 +1,12 @@
+---
+layout: post
+title: Bitcoin is not our Fiat
+---
+
+*These aren't the droids you're looking for...*
+
+[![Bitcoin Bloomberg](../images/bitcoin.jpg "Bitcoin index on Bloomberg")](https://www.bloomberg.com/news/articles/2021-07-26/bitcoin-chart-pattern-may-lead-bulls-to-eye-44-000-level-chart)
+
 During his [March 2021 interview](https://tim.blog/2021/03/24/balaji-srinivasan), Balaji Srinivasan said splitting an investment 50/50 between Bitcoin and Ethereum would be the quick and dirty way of making the most bang for your buck.
 
 In a [January 2021 talk](https://podcasts.apple.com/us/podcast/the-silver-lining-peter-thiel-in-2021/id1527549379?i=1000513763854), Peter Thiel said investing in Bitcoin is the equivalent of following Jim Cramer's 2013 advice and betting on FAANG.
