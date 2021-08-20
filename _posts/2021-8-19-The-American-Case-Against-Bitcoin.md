@@ -37,7 +37,7 @@ Bitcoin began January 3, 2009 and is 90% exhausted 12 years later. The prospect 
 
 > Another function of bitcoin price is the halving of miner reward every four years. The last halving was in May 2020 that changed the mining reward from $12.50 to $6.25. With each halving, the cost of mining doubles, and profitability requires more efficient mining and a higher bitcoin price.
 >
-> [Michael Kendall, "Bitcoin through $30,000"](https://manonthemargin.com/bitcoin-through-30000/)
+> Michael Kendall, [Bitcoin through $30,000](https://manonthemargin.com/bitcoin-through-30000/)
 
 Joel Salatin shrewdly observed that a dollar saved is actually $1.12 due to not paying taxes on it. But suppose we invested $1 in BTC last July: it would be $3.53 today (a cool 253% gain). And let's adjust for 5% dollar inflation (-$0.18) from 2020-2021, long-term capital gains rate of 15% (-$0.53), doubled miner's fees, exchange fees (variable upon market volatility), ATM fees, etc. We'd be fortunate to get our dollar back!
 
@@ -53,6 +53,6 @@ You can reach me with any burning questions or thoughts at [jun@junsung.io](jun@
 
 _A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution._
 
--- Satoshi Nakamoto, [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+-- Satoshi Nakamoto, [_Bitcoin: A Peer-to-Peer Electronic Cash System_](https://bitcoin.org/bitcoin.pdf)
 
-- Image credit: [Unsplash](https://unsplash.com/s/photos/bitcoin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+\* Image credit: [Unsplash](https://unsplash.com/s/photos/bitcoin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
