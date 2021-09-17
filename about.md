@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-My name is Jun.
+### Jün \ like the month
 
-I'm currently a senior tax accountant at [Precision Tax](https://www.precisiontax.com), but learning fullstack development on the side. By the mercy of God, my wife and I managed to escape the dark land of Seattle amid the covid debacle and we're currently living in North Idaho. I'm interested in family-centered household economics, self-sufficiency, and blockchain development.
+I'm a tax accountant learning full-stack dev.  
+με το έλεος του θεού, my wife and I escaped Seattle amid Covid to Coeur d'Alene.  
+I circuit the Bible, οἰκονομία, and blockchain.
 
-If you'd like to discuss household theory, blockchain, or need help your taxes, you can reach me at <jun@junsunglee.com>.
+To discuss any of the above: <jun@junsunglee.com>
