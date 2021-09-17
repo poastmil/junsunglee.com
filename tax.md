@@ -4,17 +4,25 @@ title: Tax
 permalink: /tax/
 ---
 
-### Is it crazy for me to ask if I can help you with your taxes?
+## Tax Prep | Accounting | Consulting
 
 ![Jun](../images/PTR-Jun.jpg)
 
 ---
 
-As an Enrolled Agent (EA) and Senior Tax Accountant at [Precision Tax](https://precisiontax.com), I specialize in tax law and financial counsel.  
-I've had the pleasure of serving clients in all 50 States with timely tax prep and optimization.  
-Most importantly, I seek to be honest, fair, and reliable in serving **you**.
+As an Enrolled Agent (EA) and Senior Tax Accountant at [Precision Tax](https://precisiontax.com), I specialize in tax law and financial counsel. 
 
-I'm accepting requests for Individual, Partnership, Corporation, Trust, Estate, and Nonprofit returns.  
-And I'd be happy to consult with you on planning your retirement and estate.
+I've had the pleasure of serving clients in all 50 States with timely tax prep and optimization. 
 
-Quote for service: <jun@junsunglee.com>
+Most importantly, I seek to be honest, fair, and reliable in serving you.
+
+
+### Services
+
+- **Tax Prep**: Accepting ***Individual***, ***Partnership***, ***Corporation***, ***Trust***, ***Estate***, and ***Nonprofit*** return requests.  
+- **Accounting**: Accepting ***Balance Sheets*** and ***Profit & Loss*** statement requests.
+- **Consulting**: Accepting ***Estate***, ***Retirement***, and ***Tax*** planning requests.
+
+---
+
+**Quote for service**: <jun@junsunglee.com>
