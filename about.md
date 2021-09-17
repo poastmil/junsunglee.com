@@ -10,4 +10,4 @@ I'm a tax accountant learning full-stack dev.
 με το έλεος του θεού, my wife and I escaped Seattle amid Covid to Coeur d'Alene.  
 I circuit the Bible, οἰκονομία, and blockchain.
 
-To discuss any of the above: <jun@junsunglee.com>
+**Contact**: <jun@junsunglee.com>
