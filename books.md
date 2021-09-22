@@ -4,10 +4,14 @@ title: Books
 permalink: /books/
 ---
 
-I have a confession to make... I'm addicted to reading.
+###### I have a confession to make...
 
-- [Goodreads](https://www.goodreads.com/user/show/74709390-jun-sung-lee)
+# I'm addicted to reading
+
 - [Help fuel my habit!](https://www.amazon.com/hz/wishlist/ls/23VPKR94OL7XY?ref_=wl_share)
+- [Connect with me on Goodreads!](https://www.goodreads.com/user/show/74709390-jun-sung-lee)
+
+---
 
 Below are some of my favorites:
 
