@@ -73,4 +73,4 @@ You can reach me with any thoughts or questions at <jun@junsunglee.com>.
 
 _The fool knows after he's suffered._
 
--- Hesiod
+-- Hesiod, [_Work and Days_](https://people.sc.fsu.edu/~dduke/lectures/hesiod1.pdf)
