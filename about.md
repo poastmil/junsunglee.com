@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-###### `You're so slow, we should call you July` -Carlos P.
+###### `You're so slow, we should call you July.`   -Carlos P.
 
 # Jün
 
