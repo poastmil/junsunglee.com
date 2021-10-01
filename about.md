@@ -4,10 +4,11 @@ title: About
 permalink: /about/
 ---
 
-# Jün \ like the month
+###### `You're so slow, we should call you July` -Carlos P.
 
-I'm a tax accountant learning full-stack dev.  
-με το έλεος του θεού, my wife and I escaped Seattle amid Covid to Coeur d'Alene.  
-I circuit the Bible, οἰκονομία, and blockchain.
+# Jün
+
+Chronicling the overnight transition from tax accounting to full-stack dev.  
+I circuit כתבי קודש, οἰκονομία, and blockchain.
 
 #### Contact: <jun@junsunglee.com>
