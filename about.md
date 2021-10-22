@@ -8,7 +8,7 @@ permalink: /about/
 
 # Jün
 
-Chronicling the overnight transition from tax accounting to full-stack dev.  
+Chronicling the overnight transition from accounting to FinTech.  
 I circuit כתבי קודש, οἰκονομία, and blockchain.
 
 #### Contact: <jun@junsunglee.com>
