@@ -8,7 +8,7 @@ permalink: /about/
 
 # Jün
 
-Chronicling the overnight transition from accounting to FinTech.  
-I circuit כתבי קודש, οἰκονομία, and blockchain.
+Chronicling the overnight transition from accounting to blockchain.  
+I circuit כתבי קודש, οἰκονομία, and immutable ledgers.
 
 #### Contact: <jun@junsunglee.com>
