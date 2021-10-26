@@ -69,8 +69,8 @@ _Eventually, of course, the party ends, and many business "emperors" are found t
 
 #### References
 
-1. [M. Kendall, _Bitcoin through $30,000_](https://manonthemargin.com/bitcoin-through-30000/)
-2. [N. Taleb, _Bitcoin, Currencies, and Fragility_](https://www.fooledbyrandomness.com/BTC-QF.pdf)
-3. [John the Apostle, _Revelation 18_](https://www.biblegateway.com/passage/?search=Revelation%2018&version=KJV) 
+1. M. Kendall, [_Bitcoin through $30,000_](https://manonthemargin.com/bitcoin-through-30000/)
+2. N. Taleb, [_Bitcoin, Currencies, and Fragility_](https://www.fooledbyrandomness.com/BTC-QF.pdf)
+3. John the Apostle, [_Revelation 18_](https://www.biblegateway.com/passage/?search=Revelation%2018&version=KJV) 
 
 \* Image credit: [Unsplash](https://unsplash.com/s/photos/bitcoin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
