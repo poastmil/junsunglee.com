@@ -25,7 +25,7 @@ I believe George Gilder ([_Wealth and Poverty_](https://www.amazon.com/Wealth-Po
 
 #### Zero-Sum
 
-Bitcoin transactional currency (BTC) began January 3, 2009 with its total supply capped at 21 million. 12 years later, the supply is 90% exhausted (as of writing, roughly 2 million BTC remain) and is set to achieve 97% exhaustion by 2030. The remaining 3% will be exhausted by 2140 due to the halving of miner rewards every four years. The last halving was May 2020, changing the mining reward from $12.50 to $6.25. With each halving, the cost of mining doubles, and profitability requires more efficient mining and a higher bitcoin price.[1]
+Bitcoin transactional currency (BTC) began January 3, 2009 with its total supply capped at 21 million coins. 12 years later, the supply is 90% exhausted (as of writing, roughly 2 million BTC remain) and on trajectory toward 97% exhaustion by 2030. The remaining 3% will be exhausted by 2140 due to the halving of miner rewards every four years. The last halving was May 2020, changing the mining reward from $12.50 to $6.25. With each halving, the cost of mining doubles, and profitability requires more efficient mining and a higher bitcoin price.[1]
 
 #### Byzantine Fault
 
@@ -33,9 +33,9 @@ The [proof of work](https://www.investopedia.com/terms/p/proof-work.asp) method,
 
 #### Orthanc
 
-With miners compensated by seignorage (the market value of a bitcoin minus its mining costs) and transaction fees upon validation -- with the plan to switch to transaction fees as the sole revenues upon the eventual depletion of the coins -- what will happen to the system that depends on the existence of such miners for perpetuity?[2] Bitcoin was a purely speculative asset from the beginning; once the final coin is mined, I doubt it'll enjoy as fortunate a legacy as the Beanie Baby. The prospect of holding "for the long haul" or as an inflationary hedge is foolish. 
+With miners compensated by seignorage (the market value of a bitcoin minus its mining costs) and transaction fees upon validation -- with the plan to switch to transaction fees as the sole revenues upon the eventual depletion of the coins[2] -- what will happen to the system that depends on the existence of such miners for perpetuity? Bitcoin was a purely speculative asset from the beginning; once the final coin is mined, I doubt it'll enjoy as fortunate a legacy as the Beanie Baby. The prospect of holding "for the long haul" or as an inflationary hedge is foolish. 
 
-Now you may be tempted to place your bets then on Ethereum... but that's for another post.
+Now you may be tempted to place your bets on Ethereum... but that's another post.
 
 ## The Fourth Turning
 
