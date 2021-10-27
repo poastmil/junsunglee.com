@@ -41,7 +41,7 @@ Now you may be tempted to place your bets on Ethereum... but that's another post
 
 The overthrow of the dollar will undoubtedly signal the end of American hegemony, but the blare of crypto hype, speculation, and greed distracts us from clearly discerning such a future and its implications.[3]
 
-Joel Salatin ([_Food Inc._](https://www.amazon.com/Food-Inc-Michael-Pollan/dp/B002UZ5CHO), Polyface Farm, etc.) shrewdly observed that a dollar saved is actually ~$1.12 due to not paying taxes on a potential purchase. But suppose we invested $1 in BTC a year ago (Oct 2021 as of writing): it would be $4.84 today (a cool 383.779% gain). Now adjusting for 5% USD inflation ($0.18) from 2020-2021, long-term capital gains rate of 15% ($0.53), doubled miner’s fees, exchange fees (variable upon market volatility\*), ATM fees, etc. We’d be fortunate to get our dollar back!
+Joel Salatin ([_Food Inc._](https://www.amazon.com/Food-Inc-Michael-Pollan/dp/B002UZ5CHO), Polyface Farm, etc.) shrewdly observed that a dollar saved is actually ~$1.12 due to not paying taxes on a potential purchase. But suppose we invested $1 in BTC a year ago: as of writing, it would be $4.84 today (a cool 383.779% gain). Now adjusting for 5% annual USD inflation ($0.24), long-term capital gains tax rate of 15% ($0.58), transaction fees ($3.09), exchange fees (variable upon market volatility\*), ATM fees, etc. We’d be fortunate to get our dollar back!
 
 \* Note: _BTC volatility has not decreased over time. Instead of stabilizing at higher levels of capitalization like fiat currency, BTC's return volatility has compounded._[2]
 
