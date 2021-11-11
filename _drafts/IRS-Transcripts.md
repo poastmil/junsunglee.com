@@ -1,8 +1,11 @@
+---
+layout: post
+title: Get Your IRS Transcripts NOW
+---
+
 _Now that the tax year is winding down, I want to call one thing to your attention..._
 
 [![IRS Transcripts](../images/IRS-transcript.png "IRS Transcript Portal")](https://www.irs.gov/individuals/get-transcript)
-
-# Secure your IRS transcripts
 
 ## Dear Reader
 
