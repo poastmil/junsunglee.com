@@ -21,7 +21,7 @@ Thus spoke the angels, but lest we forget their mortality...
 
 ## Bitcoin ≠ Gold Standard
 
-I believe George Gilder ([_Wealth and Poverty_](https://www.amazon.com/Wealth-Poverty-New-Twenty-First-Century/dp/1596988096), [_Life After Google_](https://www.amazon.com/Life-After-Google-Blockchain-Economy/dp/1621575764), etc.) correctly teaches that a cryptocurrency must mimic gold's two paradoxical facets to secure fiat status: perpetual supply and constant difficulty of acquisition. Why? New deposits continue to be discovered and reward fresh generations of seekers, but the ore remains just as difficult to get our grubby mitts on as it was 4,000 years ago. The riddle of gold invites success to anyone willing (and lucky) to work for it, but Bitcoin fails both tests.
+Bitcoin is not [digital gold](https://coinfomania.com/jimmy-song-bitcoin-survival-for-20-years/#:~:text=Bitcoin%20has%20been%20described%20as%20%E2%80%9Cdigital%20gold%E2%80%9D). I believe George Gilder ([_Wealth and Poverty_](https://www.amazon.com/Wealth-Poverty-New-Twenty-First-Century/dp/1596988096), [_Life After Google_](https://www.amazon.com/Life-After-Google-Blockchain-Economy/dp/1621575764), etc.) [correctly teaches](https://www.discovery.org/v/blockchain/) that a cryptocurrency must mimic gold's two paradoxical facets to secure fiat status: perpetual supply and constant difficulty of acquisition. Why? New deposits continue to be discovered and reward fresh generations of seekers, but the ore remains just as difficult to get our grubby mitts on as it was 4,000 years ago. The riddle of gold invites success to anyone willing (and lucky) to work for it, but Bitcoin fails both tests.
 
 #### Zero-Sum
 
