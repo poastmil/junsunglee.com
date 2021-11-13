@@ -15,9 +15,9 @@ A disadvantage of not filing your taxes every year is that if the IRS picks on y
 
 **PSA: Possessing your IRS transcripts will reduce the likelihood of discovering yourself the proverbial turkey on Thanksgiving.**
 
-## Wait, what?
+## What transcripts?
 
-There are two types of cases at my firm: those whom we're able to help and those that get canned. And the most effective indicator of a case being favorably resolved is the presence of IRS transcripts. The transcripts are records generated for each registered taxpaying entity and are the main reference material used by the IRS on any case.
+There are two types of cases at my firm - those whom we're able to help and those that get canned - and the most effective indicator of a case being favorably resolved is the presence of IRS transcripts. The transcripts are records generated for each registered taxpaying entity and are a primary reference used by the IRS on any case.
 
 There are several types of transcripts, but here are the three you should have handy:
 
@@ -27,15 +27,15 @@ Any stimulus payments issued to you will have their amounts listed in the AT. In
 
 #### Wage & Income (WT)
 
-Your W-2s and 1099s will show up here. Unless you [primarily reside](https://www.investopedia.com/terms/p/principalresidence.asp) in a [state with no income tax](https://www.investopedia.com/financial-edge/0210/7-states-with-no-income-tax.aspx), you'll also want to keep records of actual tax documents from employers/providers since they'll have state withholding information (taxes already paid to your home state) which could reduce your state tax liability (IRS transcripts only contain information relevant at the federal level).
+Your federal W-2 and 1099 info will show up here. Unless you [primarily reside](https://www.investopedia.com/terms/p/principalresidence.asp) in a [state with no income tax](https://www.investopedia.com/financial-edge/0210/7-states-with-no-income-tax.aspx), you'll also want to keep records of actual tax documents from employers/providers since they'll have state withholding amounts (taxes already paid to your home state) which could reduce your state tax liability (IRS transcripts only contain information relevant for your federal returns).
 
 #### Return (RT)
 
-This is your copy of any tax returns you filed. The IRS currently has a rolling statute of limitations for how long they'll keep your RT on file.
+This is your copy of any tax returns you filed. The IRS currently holds copies for the past three tax years, but this statute of limitations means that the oldest available return will be unavailable at the beginning of a new year (as of writing, 2017 RTs are available until Dec 31, 2021). If the IRS hits you for a return outside the three-year window - ironically enough, they'll still have information for said year that they're now withholding from you - and you don't have a copy of your return, you're not going to have a good time.
 
-## Endgame
+## Warning
 
-Keep in mind that though the IRS is the standard bureaucratic entity, handling every issue with the finesse of those vibrating concrete pulverizers, it has felled many powerful criminals (Al Capone) when they managed to avoid the clutches of the other arms of US government.
+Keep in mind that the IRS is an unelected bureaucratic entity, responding to every issue with disproportional federal force to scare others from breaking the law. Where the other arms of the government may fail, the IRS has steadily felled those with even platinum-grade defense teams (Al Capone, John Gotti, etc.).
 
 ---
 
