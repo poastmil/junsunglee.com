@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 
 _Thoughts from the trenches of the 2020 cohort..._
 
-[![Bootcamp logo](../images/ConsenSysBootcamp.jpg "ConsenSys Blockchain Developer Online Bootcamp")](https://consensys.net/academy/bootcamp/)
+[![Bootcamp logo](../images/ConsenSysBootcamp.jpg "ConsenSys Blockchain Developer Online Bootcamp")](https://junsunglee.com/ConsenSys-Blockchain-Developer-Bootcamp/)
 
 <!--more-->
 

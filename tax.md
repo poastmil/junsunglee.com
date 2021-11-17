@@ -17,10 +17,10 @@ I've had the pleasure of helping clients from all 50 States with honest and time
 ## Services
 
 - ### Tax Prep
-  Accepting requests for **_Individual_**, **_Business_**, **_Trust_**, **_Estate_**, and **_Nonprofit_** returns.
+  For **_Individual_**, **_Business_**, **_Trust_**, **_Estate_**, and **_Nonprofit_** returns.
 - ### Power of Attorney
-  Accepting requests for **_IRS Representation_**.
+  For **_IRS Representation_**.
 - ### Consulting
-  Accepting requests for **_Estate_** and **_Retirement_** planning.
+  For **_Estate_** and **_Retirement_** planning.
 
 #### Quote for service: <jun@junsunglee.com>

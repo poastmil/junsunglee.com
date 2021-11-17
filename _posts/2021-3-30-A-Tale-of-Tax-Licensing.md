@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 
 _There and back again…_
 
-[![IRS Enrolled Agent logo](../images/EA.png "IRS Enrolled Agent")](https://www.linkedin.com/in/junsunglee/)
+[![IRS Enrolled Agent logo](../images/EA.png "IRS Enrolled Agent")](https://junsunglee.com/A-Tale-of-Tax-Licensing/)
 
 <!--more-->
 
