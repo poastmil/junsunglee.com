@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 
 _Now that the tax year is winding down, I want to call one thing to your attention..._
 
-[![IRS Transcripts](../images/IRS-transcript.png "IRS Transcript Portal")](https://www.irs.gov/individuals/get-transcript)
+[![IRS Transcripts](../images/IRS-transcript.png "IRS Transcript Portal")](https://junsunglee.com/Get-Your-IRS-Transcripts-NOW/)
 
 <!--more-->
 
@@ -40,7 +40,7 @@ This is your copy of any tax returns you filed. The IRS currently holds copies f
 
 ## Warning
 
-Keep in mind that the IRS is an unelected bureaucratic entity, responding to every issue with disproportional federal force to scare others from breaking the law. Where the other arms of the government may fail, the IRS has steadily felled those with even platinum-grade defense teams ([Al Capone](https://en.wikipedia.org/wiki/Al_Capone#Tax_evasion), [John Gotti](https://en.wikipedia.org/wiki/John_Gotti#1992_conviction), etc.). 
+Keep in mind that the IRS is an unelected bureaucratic entity, responding to every issue with disproportional federal force to scare others from breaking the law. Where the other arms of the government may fail, the IRS has steadily felled those with even platinum-grade defense teams ([Al Capone](https://en.wikipedia.org/wiki/Al_Capone#Tax_evasion), [John Gotti](https://en.wikipedia.org/wiki/John_Gotti#1992_conviction), etc.).
 
 I'm no proponent of the IRS or other unelected bureaucracies. My primary motive for tax work is to equip clients to be citizens instead of prey. You do not want to be showing up on their radar.
 

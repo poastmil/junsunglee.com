@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 
 _These aren't the droids you're looking for..._
 
-[![Bitcoin](../images/bitcoin.jpg "Bitcoin")](https://unsplash.com/photos/aX1hN4uNd-I)
+[![Bitcoin](../images/bitcoin.jpg "Bitcoin")](https://junsunglee.com/Against-Bitcoin/)
 
 <!--more-->
 

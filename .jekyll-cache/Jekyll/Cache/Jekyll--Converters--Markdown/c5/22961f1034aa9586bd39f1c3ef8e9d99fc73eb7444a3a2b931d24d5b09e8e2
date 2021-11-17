@@ -1,0 +1,97 @@
+I")<p><em>Thoughts from the trenches of the 2020 cohort…</em></p>
+
+<p><a href="https://junsunglee.com/ConsenSys-Blockchain-Developer-Bootcamp/"><img src="../images/ConsenSysBootcamp.jpg" alt="Bootcamp logo" title="ConsenSys Blockchain Developer Online Bootcamp" /></a></p>
+
+<!--more-->
+
+<h2 id="dear-reader">Dear Reader</h2>
+
+<p>I graduated in late December from the <a href="https://consensys.net/academy/bootcamp/">2020 ConsenSys Blockchain Developer Online Bootcamp</a>, which began in early September and concluded November 30. This was my first bootcamp and I managed to get the certificate, but the road from enrollment to certification proved treacherous (less than 15% of my class succeeded). Thus, I feel obliged to warn those considering joining a future cohort, especially aspiring devs, and I hope the following list will help you weigh the cost.</p>
+
+<hr />
+
+<h2 id="pros">Pros</h2>
+
+<ul>
+  <li>
+    <p><strong><em>Curation</em></strong>. News and information in the <a href="https://blog.blockstack.org/george-gilder-predicts-life-after-google/">cryptocosm</a> is incessant, but ConsenSys expertly curates presentations, lessons, articles, and resources into a clear and cogent briefing on the state of blockchain (Ethereum) development. The mentors also provided the insider scoop <a href="https://www.coindesk.com/time-to-launch-ethereum-2-beacon-chain">Ethereum 2.0 beacon chain</a> as it was taking place in the middle of our coursework.</p>
+
+    <p>Here’s the 2020 course sequence:</p>
+
+    <ol>
+      <li>Review of Blockchain Technology</li>
+      <li>Blockchain Primitives</li>
+      <li>Ethereum Basics</li>
+      <li>Traditional and Decentralized application development</li>
+      <li>Development Frameworks and Environment</li>
+      <li>Solidity Fundamentals</li>
+      <li>Writing Smart Contracts</li>
+      <li>Ethereum and the End User</li>
+      <li>Smart Contracts, Pitfalls, Testing, and Debugging</li>
+      <li>Advanced Topics</li>
+      <li>Additional Topics</li>
+      <li>Final Project</li>
+    </ol>
+
+    <p>As shown by the <a href="https://drive.google.com/file/d/1ngg0q1mfutNwZ6zg92jgbU72VUgxhyq1/view">2018 syllabus</a>, my cohort was a rinse ‘n’ repeat, but I learned a lot. A few tools mentioned in the initial 2018 material had deprecated (LLL and Vyper), but that’s to be expected in a rapidly evolving field like Ethereum and I enjoyed brushing up on its history.</p>
+  </li>
+  <li>
+    <p><strong><em>Tech stack workflow</em></strong>. <a href="https://www.trufflesuite.com/truffle">Truffle</a>, <a href="https://www.trufflesuite.com/ganache">Ganache</a>, <a href="https://metamask.io/">MetaMask</a>, <a href="https://infura.io/">Infura</a>, <a href="https://remix.ethereum.org/#optimize=false&amp;runs=200&amp;evmVersion=null">Remix</a>, <a href="https://mythx.io/">MythX</a>. After several mergers, the bootcamp not only offers hands-on experience with the best-in-class Ethereum tech stack, but guidance from its core developers. With Truffle’s <a href="https://www.trufflesuite.com/tutorials/pet-shop">Pet Shop Tutorial</a>, two practice projects, and the final project, I got to experience developing and deploying <a href="https://github.com/jun-sung/consensys-dev-bootcamp">at least four solid dapps</a> from the ground up.</p>
+  </li>
+  <li>
+    <p><strong><em>GitHub projects</em></strong>. For someone who had no previous experience with Git besides <a href="theodinproject.com/">The Odin Project</a>, the bootcamp was also a crash course on GitHub, especially via the final project. After my initial submission, my grader provided <a href="https://github.com/MatricksDeCoder/Fojini-DEX">examples</a> of well-done projects that taught me how to draft a good README, organize my repo, and troubleshoot. This also opened up a rabbithole for checking out the <a href="https://github.com/jun-sung?tab=stars">starred repos</a> that better devs have their eye on.</p>
+  </li>
+  <li>
+    <p><strong><em><a href="https://courses.consensys.net/certificates/w9trgfa8fa">The certificate</a></em></strong>.</p>
+  </li>
+</ul>
+
+<h2 id="cons">Cons</h2>
+
+<ul>
+  <li>
+    <p><strong><em>Class size</em></strong>. My cohort ballooned to a size of over 300 students before settling a little over 280. While that nets ConsenSys a breezy $250k, you can imagine the chaos on Slack. Though the mentors heroically attempted to answer all questions, there was so much noise and I ended up avoiding the platform altogether.</p>
+  </li>
+  <li>
+    <p><strong><em>Swindling</em></strong>. ConsenSys’ selling point is to use its clout (<a href="https://www.reddit.com/r/ethereum/comments/b45zov/consensys_academys_developer_bootcamp_is_back/ej4mimo?utm_source=share&amp;utm_medium=web2x&amp;context=3">“the Microsoft of crypto”</a>) to back their certificates upon the successful completion of the bootcamp. As seen in this <a href="https://www.reddit.com/r/ethdev/comments/8jwfv5/general_feeling_about_consensys_academy/">thread</a>, there seems to be legitimate confusion as to who will benefit from the bootcamp:
+<a href="https://www.reddit.com/r/ethdev/comments/8jwfv5/general_feeling_about_consensys_academy/"><img src="../images/ConsenSysBootcamp.PNG" alt="redditors" title="General feeling about ConsenSys Academy" /></a></p>
+
+    <p>The fine print recommended at least a year of coding experience, but invited anyone interested in learning more about Ethereum with a full tuition refund if you dropout within the first two weeks. They recommend a pace of a chapter per week, but there’s no coding til Chapter 7. The course progresses naturally enough, building upon the foundations laid by each previous chapter. I’ve been coding on-and-off for several years and my sensation of progressing through Chapters 1-11 was of a gradual climb through Solidity concepts. I was making good progress and managed to successfully complete the practice exercises; and as an aspiring dev, this felt encouraging– that is, before I hit the sheer rock face of the last chapter. What ConsenSys fails to mention until the very end, long after the two week trial period, and buried in page 6 of the <a href="https://docs.google.com/document/d/1fSiejecMogc2h7aJxIl9tfZbHRFXTipftWLevUKAmQ4/edit">final project grading rubric</a>:</p>
+
+    <blockquote>
+      <p><strong>A note on project difficulty</strong>:</p>
+
+      <p>Depending on your current web development skill level, this project may be more or less difficult.</p>
+    </blockquote>
+
+    <p>Now in order to get the certificate, one must submit a working project since it constitutes 55% of the course grade. <a href="https://github.com/jun-sung/doge-emporium">My final project</a> currently consists of 3% Solidity and 95% JavaScript, so unless you have a good handle of JS (or know someone who does) the likelihood of passing merely with ConsenSys’ Solidity lessons is astronomically low. To give you an idea of how many were rudely surprised by this: of the ~280 in my cohort, only 42 of us (~15%) submitted our projects by the deadline. (And who knows how many of those even passed?)</p>
+  </li>
+  <li>
+    <p><strong><em>Secret certificate</em></strong>. While conversing with the grader of my final project, I asked if/when I needed to resolve the issues he flagged on my project repo. He replied saying that resolving the issues will enable me to get the ConsenSys certificate of proficiency apart from their certificate of completion. Meaning, there are <strong>TWO</strong> certificates though this is not mentioned anywhere in the course, rubric, or Slack. I received the one for completion and resolved the issues flagged by my grader, but this was done around Christmas, and he has yet to get back to me in 2021 about whether I can attain the second certificate.</p>
+  </li>
+</ul>
+
+<h2 id="advice">Advice</h2>
+
+<ul>
+  <li>
+    <p><strong><em>Finish <a href="https://cryptozombies.io/en/course/">CryptoZombies</a></em></strong>. I worked through the <a href="https://cryptozombies.io/en/course/">CryptoZombies</a> Beginner to Intermediate lessons after the bootcamp and am now finishing the Advanced lessons, but I wish I’d done this material beforehand! The course is free and goes through the bulk of what ConsenSys teaches on Solidity in an un-tedious manner, which will allow you to understand concepts and finish the course quickly, affording you precious time to work on your final project.</p>
+  </li>
+  <li>
+    <p><strong><em>Focus on the final project</em></strong>. Whether a seasoned dev or a newbie, the most sensible thing to do is to carve out as much time as possible to work on the final project. First, you need it to work and hit <a href="https://docs.google.com/document/d/1fSiejecMogc2h7aJxIl9tfZbHRFXTipftWLevUKAmQ4/edit">all the requirements</a> to pass; second, ConsenSys is looking for talent and the final project is the best way to get their notice if you’re interested in work/career opportunities. (This <a href="https://github.com/astarinmymind">student</a> landed an internship with <a href="https://metamask.io/">MetaMask</a>.) I decided I could juggle the bootcamp, full-time work, and prep for the <a href="https://junsung.io/A-Tale-of-Tax-Licensing/">IRS Enrolled Agent (EA)</a> exams… and only managed to do so by the skin of my teeth. If I were to do it over again, I’d attempt the course with no urgent and competing priorities on the horizon, and <em>especially not</em> during the holiday season.</p>
+  </li>
+  <li>
+    <p><strong><em>Know JavaScript</em></strong>. I think JavaScript is as essential as Solidity, if not more so in developing dapps. <a href="https://cryptozombies.io/en/course/">CryptoZombies</a> affirms that the accepted conventions for smart contract testing is in JS. You can <a href="https://github.com/jun-sung?tab=stars">see for yourself</a> the Solidity to JS ratio of other students’ final projects. While the first 11 chapters of the bootcamp could be finished in 2 weeks (that’s what the abovementioned <a href="https://github.com/astarinmymind">MetaMask intern</a> managed to do), spending the remaining time scrambling to learn enough JS in order to build a passing project isn’t ideal.</p>
+  </li>
+</ul>
+
+<p>You can reach me with any thoughts or questions at <a href="mailto:jun@junsunglee.com">jun@junsunglee.com</a>.</p>
+
+<hr />
+
+<h2 id="coda">CODA</h2>
+
+<p><em>The fool knows after he’s suffered.</em></p>
+
+<p>– Hesiod, <a href="https://people.sc.fsu.edu/~dduke/lectures/hesiod1.pdf"><em>Work and Days</em></a></p>
+:ET
