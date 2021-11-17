@@ -7,6 +7,8 @@ _Now that the tax year is winding down, I want to call one thing to your attenti
 
 [![IRS Transcripts](../images/IRS-transcript.png "IRS Transcript Portal")](https://www.irs.gov/individuals/get-transcript)
 
+_Disclaimer: I'm no proponent of the IRS or other unelected bureaucracies. My primary motive for tax work is to equip clients to be citizens instead of prey._
+
 ## Dear Reader
 
 While working at [Precision Tax](https://www.precisiontax.com), I've learned lessons not easily found in the typical accounting firm. We specialize in clients struck by a [grey swan](https://www.investopedia.com/terms/g/grey-swan.asp#:~:text=Grey%20swan%20is%20a%20term,low%20perceived%20likelihood%20of%20happening) event: receiving the dread IRS letter. Every client admits that they didn't think it would happen to them.
@@ -17,7 +19,7 @@ A disadvantage of not filing your taxes every year is that if the IRS picks on y
 
 ## What transcripts?
 
-There are two types of cases at my firm - those whom we're able to help and those that get canned - and the most effective indicator of a case being favorably resolved is the presence of IRS transcripts. The transcripts are records generated for each registered taxpaying entity and are a primary reference used by the IRS on any case.
+There are two types of cases at my firm - those we're able to help and those that get canned - and the most effective indicator of a case being favorably resolved is the presence of IRS transcripts. The transcripts are records generated for each registered taxpaying entity and are a primary reference used by the IRS on any case.
 
 There are several types of transcripts, but here are the three you should have handy:
 
@@ -31,11 +33,13 @@ Your federal W-2 and 1099 info will show up here. Unless you [primarily reside](
 
 #### Return (RT)
 
-This is your copy of any tax returns you filed. The IRS currently holds copies for the past three tax years, but this statute of limitations means that the oldest available return will be unavailable at the beginning of a new year (as of writing, 2017 RTs are available until Dec 31, 2021). If the IRS hits you for a return outside the three-year window - ironically enough, they'll still have information for said year that they're now withholding from you - and you don't have a copy of your return, you're not going to have a good time.
+This is your copy of any tax returns you filed. The IRS currently holds copies for the past three tax years, but this rolling statute of limitations means that the oldest available return will be unavailable at the beginning of a new year (as of writing, 2017 RTs are available until Dec 31, 2021). If the IRS hits you for a return outside the three-year window and you don't have a copy of your return - ironically enough, they'll still have information for said year now withheld from you - you're not going to have a good time. It would be wise to setup a yearly reminder to check if you have their oldest available transcript.
 
 ## Warning
 
-Keep in mind that the IRS is an unelected bureaucratic entity, responding to every issue with disproportional federal force to scare others from breaking the law. Where the other arms of the government may fail, the IRS has steadily felled those with even platinum-grade defense teams (Al Capone, John Gotti, etc.).
+Keep in mind that the IRS is an unelected bureaucratic entity, responding to every issue with disproportional federal force to scare others from breaking the law. Where the other arms of the government may fail, the IRS has steadily felled those with even platinum-grade defense teams ([Al Capone](https://en.wikipedia.org/wiki/Al_Capone#Tax_evasion), [John Gotti](https://en.wikipedia.org/wiki/John_Gotti#1992_conviction), etc.). You do not want to be showing up on their radar.
+
+You can reach me with thoughts/questions at <jun@junsunglee.com>.
 
 ---
 
