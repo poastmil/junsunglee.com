@@ -1,11 +1,14 @@
 ---
 layout: post
 title: Get Your IRS Transcripts NOW
+excerpt_separator: <!--more-->
 ---
 
 _Now that the tax year is winding down, I want to call one thing to your attention..._
 
 [![IRS Transcripts](../images/IRS-transcript.png "IRS Transcript Portal")](https://www.irs.gov/individuals/get-transcript)
+
+<!--more-->
 
 ## Dear Reader
 
@@ -14,6 +17,8 @@ While working at [Precision Tax](https://www.precisiontax.com), I've learned les
 A disadvantage of not filing your taxes every year is that if the IRS picks on you, you have no right to contest their back taxes claim until every return for the past five years is filed. The nightmare is merely beginning as you scramble to find receipts and tax documents spanning half a decade (with no statute of limitations in the case of [fraud](https://www.investopedia.com/terms/t/tax-fraud.asp#:~:text=Tax%20fraud%20essentially%20entails%20cheating,number%3B%20and%20not%20reporting%20income)).
 
 **PSA: Possessing your IRS transcripts will reduce the likelihood of discovering yourself the proverbial turkey on Thanksgiving.**
+
+---
 
 ## What transcripts?
 

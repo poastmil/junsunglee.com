@@ -1,11 +1,14 @@
 ---
 layout: post
 title: A Tale of Tax Licensing
+excerpt_separator: <!--more-->
 ---
 
 _There and back again…_
 
 [![IRS Enrolled Agent logo](../images/EA.png "IRS Enrolled Agent")](https://www.linkedin.com/in/junsunglee/)
+
+<!--more-->
 
 ## Dear Reader
 
