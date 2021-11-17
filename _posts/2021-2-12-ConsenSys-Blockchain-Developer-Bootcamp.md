@@ -12,7 +12,7 @@ _Thoughts from the trenches of the 2020 cohort..._
 
 ## Dear Reader
 
-I graduated in late December from the [2020 ConsenSys Blockchain Developer Online Bootcamp](https://consensys.net/academy/bootcamp/), which began in early September and concluded November 30. This was my first bootcamp and I managed to get the certificate, but the road from enrollment to certification proved treacherous (less than 15% of my class succeeded). Thus, I feel obliged to warn those considering joining a future cohort, especially aspiring devs, and I hope the following list will help you weigh the cost.
+I graduated December 2020 from the [2020 ConsenSys Blockchain Developer Online Bootcamp](https://consensys.net/academy/bootcamp/), which began in September. This was my first coding bootcamp and I managed to get the certificate, but the road from enrollment to certification was treacherous (less than 15% of my class succeeded). Thus, my conscience obliges me to warn those considering joining a future cohort, especially aspiring devs, and I hope the following list will help you count the cost.
 
 ---
 

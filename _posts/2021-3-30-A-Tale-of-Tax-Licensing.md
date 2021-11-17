@@ -12,7 +12,7 @@ _There and back again…_
 
 ## Dear Reader
 
-On February 12, in the midst of Seattle’s snow storm of the century, USPS heroically delivered the news that I’d become an IRS Enrolled Agent (EA). The road to obtaining this license is psychologically taxing due to having to familiarize oneself with Circular 230 (US Tax Law), which quickly reveals its kinship to the nine-headed hydra of olde. I also believe the EA is not well-known and therefore not well-understood, so I hope the following will help those considering their services as well as encourage those who are preparing for the exams.
+February 12, 2021: Amid Seattle’s fantastic snow storm, USPS delivered me the news that I’d become an IRS Enrolled Agent (EA). I believe the EA is not well-known or understood, so I hope the following will help those seeking the license or desiring to advance in their tax career.
 
 ---
 
@@ -31,7 +31,7 @@ I hope you've gleaned from the aformentioned story that
 
 ## SEE Prep Advice
 
-I began my studies in September 2020 using [Gleim's EA Review](https://www.gleim.com/enrolled-agent-review/), taking exams 1-3 on Oct 19, Dec 4, and Dec 18 respectively.
+I began studying in September 2020 using [Gleim's EA Review](https://www.gleim.com/enrolled-agent-review/), taking exams 1-3 on Oct 19, Dec 4, and Dec 18 respectively.
 
 ![SEE Results](../images/SEE.png)
 

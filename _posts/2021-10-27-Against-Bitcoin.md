@@ -62,7 +62,7 @@ _Most of the truly great businesses had no interest in having **anyone** take th
 
 _Beyond that, as conglomerateurs dipped into this universe of mediocre businesses, they often found themselves required to pay staggering "control" premiums to snare their quarry. Aspiring conglomerateurs knew the answer to this "overpayment" problem: They simply needed to manufacture a vastly overvalued stock of their own that could be used as "currency" for pricey acquisitions. ("I'll pay you $10,000 for your dog by giving you two of my $5,000 cats.")_
 
-_Often, the tools for fostering the overvaluation of a conglomerate's stock involved promotional techniques and "imaginative" accounting maneuvers that were, at best, deceptive and that sometimes crossed the line into fraud. When these tricks were "successful," the conglomerate pushed ints own stock to, say, 3x its business value in order to offer the target 2x **its** value._
+_Often, the tools for fostering the overvaluation of a conglomerate's stock involved promotional techniques and "imaginative" accounting maneuvers that were, at best, deceptive and that sometimes crossed the line into fraud. When these tricks were "successful," the conglomerate pushed its own stock to, say, 3x its business value in order to offer the target 2x **its** value._
 
 _Investing illusions can continue for a surprisingly long time. Wall Street loves the fees that deal-making generates, and the press loves the stories that colorful promoters provide. At a point, also, the soaring price of a promoted stock can itself become the "proof" that an illusion is reality._
 
