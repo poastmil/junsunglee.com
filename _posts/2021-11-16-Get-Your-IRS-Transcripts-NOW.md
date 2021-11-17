@@ -28,11 +28,11 @@ There are several types of transcripts, but the three you should have handy are:
 
 #### Account (AT)
 
-Any Covid stimulus payments issued to you will have their amounts listed in the AT. In case you forgot how much you received or you're tempted to lie about not receiving any checks, you can review your current year AT.
+Tax refunds and stimulus payments issued to you will have their amounts listed in the AT. In case you forgot how much you received or are tempted to lie about not receiving Covid checks, you can review your current year AT.
 
 #### Wage & Income (WT)
 
-Your federal W-2 and 1099 info will show up here. Unless you [primarily reside](https://www.investopedia.com/terms/p/principalresidence.asp) in a [state with no income tax](https://www.investopedia.com/financial-edge/0210/7-states-with-no-income-tax.aspx), you'll also want to keep records of actual tax documents from employers/providers since they'll have state withholding amounts (taxes already paid to your home state) which could reduce your state tax liability (IRS transcripts only contain information relevant for your federal returns).
+Your federal W-2 and 1099 info will show up here. Unless you [primarily reside](https://www.investopedia.com/terms/p/principalresidence.asp) in a [state with no income tax](https://www.investopedia.com/financial-edge/0210/7-states-with-no-income-tax.aspx), you'll also want to keep records of actual tax documents from employers/providers since they'll have state withholding amounts (taxes already paid to your home state) which could reduce your state tax liability (IRS transcripts only contain information relevant for your federal returns). Now before your clever mind runs ahead, the WT is perpetually open to new data. Instead of checking for items the IRS received and not reporting whatever isn't showing up (yet), limit your exposure to grey swans by always reporting as correctly as possible.
 
 #### Return (RT)
 
@@ -40,11 +40,11 @@ This is a record of any tax returns you've filed. The IRS currently holds copies
 
 ## Warning
 
-Keep in mind: the IRS is an unelected bureaucratic entity, responding to every issue with disproportional federal force to scare others from breaking the law. Where other arms of the government may fail, the IRS manages to steadily fell those with even platinum-grade defense teams ([Al Capone](https://en.wikipedia.org/wiki/Al_Capone#Tax_evasion), [John Gotti](https://en.wikipedia.org/wiki/John_Gotti#1992_conviction), etc.).
+Keep in mind: the IRS is an unelected bureaucratic entity, responding to every issue with disproportional federal force to scare others from breaking the law. Where other arms of the government fail, the IRS often succeeds, steadily felling those with even platinum-grade defense teams ([Al Capone](https://en.wikipedia.org/wiki/Al_Capone#Tax_evasion), [John Gotti](https://en.wikipedia.org/wiki/John_Gotti#1992_conviction), etc.).
 
-I'm no proponent of the IRS or other unelected bureaucracies. My motive for tax work is to equip clients to be more citizen, less prey. Unless you enjoy shelling large sums to firms like [Precision Tax](https://www.precisiontax.com), do your due diligence to avoid showing up on the IRS radar.
+I'm no proponent of the IRS or other unelected, unaccountable bureaucracies. My motive in tax work is to equip clients to be more citizen, less prey. Unless you enjoy shelling large sums to firms like [Precision Tax](https://www.precisiontax.com), do your due diligence to avoid showing up on the IRS radar.
 
-Get your transcripts: https://www.irs.gov/individuals/get-transcript
+Get your transcripts: <https://www.irs.gov/individuals/get-transcript>
 
 You can reach me with thoughts/questions at <jun@junsunglee.com>.
 
