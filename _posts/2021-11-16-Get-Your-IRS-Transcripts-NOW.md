@@ -32,9 +32,9 @@ Tax refunds and stimulus payments issued to you will have their amounts listed i
 
 #### Wage & Income (WT)
 
-Your federal W-2 and 1099 info will show up here. Unless you [primarily reside](https://www.investopedia.com/terms/p/principalresidence.asp) in a [state with no income tax](https://www.investopedia.com/financial-edge/0210/7-states-with-no-income-tax.aspx), you'll also want to keep records of actual tax documents from employers/providers since they'll have state withholding amounts (taxes already paid to your home state) which could reduce your state tax liability (IRS transcripts only contain information relevant for your federal returns). Now before your clever mind runs ahead, the WT is perpetually open to new data. Instead of checking for items the IRS received and not reporting whatever isn't showing up (yet), limit your exposure to grey swans by always reporting as correctly as possible.
+Your federal W-2 and 1099 info will show up here. Unless you [primarily reside](https://www.investopedia.com/terms/p/principalresidence.asp) in a [state with no income tax](https://www.investopedia.com/financial-edge/0210/7-states-with-no-income-tax.aspx), you'll also want to keep records of actual tax documents from employers/providers since they'll have state withholding amounts (taxes already paid to your home state) which could reduce your state tax liability (IRS transcripts only contain information relevant for your federal returns). Now before your clever mind runs ahead, the WT is perpetually open to new data. Instead of checking for items the IRS received and not reporting whatever isn't showing up (yet), limit your exposure to grey swans by always reporting as correctly as possible.\*
 
-\* Note: _Depending on the case, most penalties are eligible for a first-time abatement, but the IRS will not forgive [Accuracy-Related Penalties](https://www.irs.gov/payments/accuracy-related-penalty) without [Reasonable Cause](https://www.irs.gov/businesses/small-businesses-self-employed/penalty-relief-due-to-reasonable-cause)._
+\* _Note: Depending on the case, most penalties are eligible for a first-time abatement, but the IRS will not forgive [Accuracy-Related Penalties](https://www.irs.gov/payments/accuracy-related-penalty) without [Reasonable Cause](https://www.irs.gov/businesses/small-businesses-self-employed/penalty-relief-due-to-reasonable-cause)._
 
 #### Return (RT)
 
@@ -42,13 +42,13 @@ This is a record of any tax returns you've filed. The IRS currently holds copies
 
 ## Warning
 
-There's a five-year statute of limitations for non-criminal tax returns; meaning, the IRS won't bring up any tax-related issue prior to that limit. Each tax year closes after October 15 (extension deadline) of the following year; as of writing (end of 2021), 2015 returns are no longer required by the IRS. Again, having [Substantial Understatement of Income](https://www.irs.gov/payments/accuracy-related-penalty#:~:text=Substantial%20Understatement%20of%20Income%20Tax%20Penalty) for any tax year is exposing yourself to a time bomb due to no statute of limitations for fraud.
+There's a five-year statute of limitations for non-criminal tax returns; meaning, the IRS won't bring up any tax-related issue prior to that limit. Each tax year closes after October 15 (extension deadline) of the following year; as of writing (end of 2021), 2015 returns are no longer required by the IRS. Again, having [Substantial Understatement of Income](https://www.irs.gov/payments/accuracy-related-penalty#:~:text=Substantial%20Understatement%20of%20Income%20Tax%20Penalty) for any tax year is exposing yourself to a time bomb due to no statute of limitations for fraud.\*
 
-\* Note: _In their [2014 bulletin](https://www.irs.gov/irb/2014-16_IRB#:~:text=Q%E2%80%9316%3A%20Will%20taxpayers%20be%20subject%20to%20penalties%20for%20having%20treated%20a%20virtual%20currency%20transaction%20in%20a%20manner%20that%20is%20inconsistent%20with%20this%20notice%20prior%20to%20March%2025%2C%202014%3F), the IRS noted no statute of limitations for returns failing to report cryptocurrency activity. As you can see, the IRS was unto crypto years before the current hype._
+\* _[2014 IRS Bulletin](https://www.irs.gov/irb/2014-16_IRB#:~:text=Q%E2%80%9316%3A%20Will%20taxpayers%20be%20subject%20to%20penalties%20for%20having%20treated%20a%20virtual%20currency%20transaction%20in%20a%20manner%20that%20is%20inconsistent%20with%20this%20notice%20prior%20to%20March%2025%2C%202014%3F): No statute of limitations for [failing to report cryptocurrency activity](https://junsunglee.com/Cryptocurrency-Tax)._
 
 Keep in mind: the IRS is an unlected, [unaccountable](https://en.wikipedia.org/wiki/IRS_targeting_controversy) bureaucracy that responds to every issue with disproportional federal force to scare others from breaking the law. Where other arms of the government fail, the IRS often succeeds, steadily felling those sporting platinum-grade defense teams ([Al Capone](https://en.wikipedia.org/wiki/Al_Capone#Tax_evasion)) to emerging cryptolords ([Ross Ulbricht](https://en.wikipedia.org/wiki/Ross_Ulbricht#Arrest)).
 
-My motive is to equip clients to be more citizen, less prey. Unless you enjoy shelling large sums to firms like [Precision Tax](https://www.precisiontax.com), do your due diligence to avoid showing up on the IRS radar.
+My motive is to equip clients to be more citizen, less prey. Unless you prefer shelling large sums to firms like [Precision Tax](https://www.precisiontax.com), do your due diligence to avoid the IRS radar.
 
 Get your transcripts: <https://www.irs.gov/individuals/get-transcript>
 
