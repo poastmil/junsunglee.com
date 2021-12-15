@@ -105,6 +105,8 @@ There's a lot of jargon in the cryptocosm, so here's a short overview (w/ tax im
 - **_NFT_** (non-fungible token) creators have ordinary, SE income from sale of "inventory"
   - Buyers/Sellers have capital gains since NFTs can only be purchased with Ether
   - Taxed as [collectibles](https://www.investopedia.com/articles/personal-finance/061715/how-are-collectibles-taxed.asp#:~:text=Collectibles%20are%20considered%20alternative%20investments,than%20one%20year%20of%20ownership.) if long-term
+- **_Gas Fees_** are not deductible on a personal return
+  - May be deductible on a business return if business activity involves transactions on Ethereum's blockchain
 - **_Wash Sale_** rules don't apply to crypto transactions, but this may change per IRS
 - **_Offshore Crypto Accounts_** don't have to be reported, but this will soon change as the IRS [announced](https://www.fincen.gov/sites/default/files/shared/Notice-Virtual%20Currency%20Reporting%20on%20the%20FBAR%20123020.pdf) it's intent to require reporting of all foreign held crypto
 - **_Crypto Donations_** are treated by the IRS as Non-Cash contributions
