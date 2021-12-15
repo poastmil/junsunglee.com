@@ -22,9 +22,9 @@ This post seeks to arm you with the know-how of reporting your crypto activity s
 
 ## The Grand Inquisitor
 
-There's a new question on the front of recent Form 1040s (personal tax return):
+There's a new question on the front of recent Form 1040s:
 
-> _At any time during (year), did you receive, sell, send, exchange, or otherwise acquire any financial interest in any virtual currency?_
+![1040](../images/Crypto1040.png "1040 crypto question")
 
 If you've never handled cryptocurrency, congratulations. You may tick the **No** box and proceed with the rest of your tax return. Per [IRS FAQ 5](https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-on-virtual-currency-transactions#:~:text=Q5.%C2%A0%20The%202020,3/2/2021): If the only activity involving crypto were purchases of crypto with real currency, you may also tick **No**. For those remaining, you'll tick **Yes**.
 
@@ -105,6 +105,35 @@ There's a lot of jargon in the cryptocosm, so here's a short overview (w/ tax im
 
 ## FAQs
 
+#### Crypto Tax Example 1: Exchange\*
+
+Jan 1, 2015: Bitcoin (BTC) cost basis = $100  
+Nov 1, 2020: Exchanged for Ether (ETH)  
+Nov 1, 2020: ETH cost basis = $9,750
+
+| ----------- | | ---------------- |
+| :---------- | |---------------: |
+| BTC Sale: | | $9,750 |
+| BTC Basis: | | $100 |
+| BTC Gain: | | $9,650 (**TAXABLE**) |
+| ETH Basis: | | $9,750 |
+
+\* [IRS Legal Memo 202124008](https://www.irs.gov/pub/irs-wd/202124008.pdf): Crypto exchanges don't qualify for [1031 treatment](<https://www.jdsupra.com/legalnews/like-kind-exchanges-of-cryptocurrency-6017961/#:~:text=Section%201031(a)(1,trade%20or%20business%20or%20for)>)
+
+#### Crypto Tax Example 2: Mining
+
+Ethereum miner is awarded $2,400 worth of ETH  
+Considered self-employed (SE) income and reports $2,400 on Schedule C
+
+Trades for a computer when ETH is valued at $2,750
+
+| ----------- | | ---------------- |
+| :---------- | |---------------: |
+| ETH Sale: | | $2,750 (Report on [Form 8949](https://www.irs.gov/pub/irs-pdf/f8949.pdf))|
+| ETH Basis: | | $2,400 |
+| Trade Gain: | | $350 |
+| Computer Basis: | | $350 |
+
 - **_Cryptocurrency_** is not treated as governmental currency, but as property
   - Specific identification is allowed to leverage gains/losses
   - Report on [Form 8949](https://www.irs.gov/pub/irs-pdf/f8949.pdf), **NOT** on 1099-B
@@ -115,39 +144,10 @@ There's a lot of jargon in the cryptocosm, so here's a short overview (w/ tax im
   - May be deductible on a business return if business activity involves transactions on Ethereum's blockchain
 - **_Wash Sale_** rules don't apply to crypto transactions, but this may change per IRS
 - **_Offshore Crypto Accounts_** don't have to be reported, but this will soon change as the IRS [announced](https://www.fincen.gov/sites/default/files/shared/Notice-Virtual%20Currency%20Reporting%20on%20the%20FBAR%20123020.pdf) it's intent to require reporting of all foreign held crypto
+- **_Crypto IRAs_** undergo the same tax treatment as any other IRA
 - **_Crypto Donations_** are treated by the IRS as Non-Cash contributions
   - FMV on date of contribution if long-term; lesser of Basis or FMV if short-term
   - Report on [Form 8283](https://www.investopedia.com/terms/f/form-8283.asp) and requires Charity signature if over $5,0000
-- **_Crypto IRAs_** undergo the same tax treatment as any other IRA
-
-  #### Crypto Tax Example 1: Exchange\*
-
-  Jan 1, 2015: Bitcoin (BTC) cost basis = $100  
-  Nov 1, 2020: Exchanged for Ether (ETH)  
-  Nov 1, 2020: ETH cost basis = $9,750
-
-  | ----------- | | ---------------- |
-  | :---------- | |---------------: |
-  | BTC Sale: | | $9,750 |
-  | BTC Basis: | | $100 |
-  | BTC Gain: | | $9,650 (**TAXABLE**) |
-  | ETH Basis: | | $9,750 |
-
-  \* [IRS Legal Memo 202124008](https://www.irs.gov/pub/irs-wd/202124008.pdf): Crypto exchanges don't qualify for [1031 treatment](<https://www.jdsupra.com/legalnews/like-kind-exchanges-of-cryptocurrency-6017961/#:~:text=Section%201031(a)(1,trade%20or%20business%20or%20for)>)
-
-  #### Crypto Tax Example 2: Mining
-
-  Ethereum miner is awarded $2,400 worth of ETH  
-  Considered self-employed (SE) income and reports $2,400 on Schedule C
-
-  Trades for a computer when ETH is valued at $2,750
-
-  | ----------- | | ---------------- |
-  | :---------- | |---------------: |
-  | ETH Sale: | | $2,750 (Report on [Form 8949](https://www.irs.gov/pub/irs-pdf/f8949.pdf))|
-  | ETH Basis: | | $2,400 |
-  | Trade Gain: | | $350 |
-  | Computer Basis: | | $350 |
 
 ### Crypto Tracking Apps
 
