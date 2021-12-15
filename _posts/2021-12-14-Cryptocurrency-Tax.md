@@ -60,12 +60,16 @@ There's a lot of jargon in the cryptocosm, so here's a short overview (w/ tax im
 
 ###### _Soft Fork_
 
+![Soft Fork](../images/SoftFork.PNG "Soft Fork")
+
 - Minor change to the software protocol, sometimes used to implement new functionality
 - Requires majority of users to upgrade to new software
 - Backward compatible
 - **NONTAXABLE EVENT**
 
 ###### _Hard Fork_
+
+![Hard Fork](../images/HardFork.PNG "Hard Fork")
 
 - Radical change to the software protocol, invalidating previous transactions
 - Requires all users to upgrade to latest version of the software
@@ -81,6 +85,8 @@ There's a lot of jargon in the cryptocosm, so here's a short overview (w/ tax im
   \* _Note: [Bitcoin Cash](https://en.wikipedia.org/wiki/Bitcoin_Cash) was airdropped to holders of Bitcoin in the same quantities after the Aug 1, 2017 hard fork. Direct holders must report taxable income as of Aug 1, 2017. Since certain digital wallets didn't allow exchanging/buying/selling Bitcoin Cash until later in 2017, FMV was determined as the day those wallets allowed Bitcoin Cash transactions. [Revenue Ruling 2019-24](https://www.irs.gov/pub/irs-drop/rr-19-24.pdf) outlines why airdrops of currency are taxable as Ordinary Income instead of Capital Gains._
 
 ###### _Staking (Dividends)_
+
+![Staking](../images/Staking.PNG "Staking")
 
 - Reward (of more crypto) for holding crypto
 - **TAXABLE** (as Other Income) @ FMV of date received
