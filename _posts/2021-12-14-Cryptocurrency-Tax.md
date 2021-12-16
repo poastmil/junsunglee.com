@@ -169,3 +169,6 @@ You can reach me with thoughts/questions at <jun@junsunglee.com>.
 _If you have been having trouble with the tax authorities and you receive an official piece of mail from their agency, your blood pressure will increase or drop precipitously. Your heart will pound, your palms will sweat, and a feeling of intense fear (even doom) will sweep over you._
 
 -- Jordan B. Peterson, [_Beyond Order_](https://www.amazon.com/Beyond-Order-More-Rules-Life/dp/0593084640)
+
+
+\* Image credits: Shutterstock, Cointelegraph, Anchorage
