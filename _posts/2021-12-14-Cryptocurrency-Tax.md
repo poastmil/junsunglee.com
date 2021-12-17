@@ -171,4 +171,4 @@ _If you have been having trouble with the tax authorities and you receive an off
 -- Jordan B. Peterson, [_Beyond Order_](https://www.amazon.com/Beyond-Order-More-Rules-Life/dp/0593084640)
 
 
-\* Image credits: Shutterstock, Cointelegraph, Anchorage
+\* Image credits: [Shutterstock](https://www.shutterstock.com/image-photo/wooden-tax-word-popular-cryptocurrencies-on-1133671598), [CNBC](https://www.cnbc.com/2021/12/15/the-irs-wants-to-know-about-crypto-bitcoin-ethereum-dogecoin-transactions-this-tax-season.html), [Cointelegraph](https://cointelegraph.com/news/can-crypto-exchanges-be-trusted-with-hard-forks), [Anchorage Digital](https://medium.com/anchorage/staking-and-inflation-explained-for-crypto-investors-b5f95d478916)
