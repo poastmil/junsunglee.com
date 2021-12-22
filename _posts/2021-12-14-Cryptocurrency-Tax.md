@@ -118,12 +118,12 @@ Nov 1, 2020: ETH cost basis = $9,750
 | BTC Gain: | | $9,650 (**TAXABLE**) |
 | ETH Basis: | | $9,750 |
 
-\* [IRS Legal Memo 202124008](https://www.irs.gov/pub/irs-wd/202124008.pdf): Crypto exchanges don't qualify for [1031 treatment](<https://www.jdsupra.com/legalnews/like-kind-exchanges-of-cryptocurrency-6017961/#:~:text=Section%201031(a)(1,trade%20or%20business%20or%20for)>)
+\* _[IRS Legal Memo 202124008](https://www.irs.gov/pub/irs-wd/202124008.pdf): Crypto exchanges don't qualify for [1031 treatment](<https://www.jdsupra.com/legalnews/like-kind-exchanges-of-cryptocurrency-6017961/#:~:text=Section%201031(a)(1,trade%20or%20business%20or%20for)>)_
 
-#### Crypto Tax Example 2: Mining
+#### Crypto Tax Example 2: Mining\*
 
 Ethereum miner is awarded $2,400 worth of ETH  
-Considered self-employed (SE) income and reports $2,400 on Schedule C
+Considered either self-employed (SE) or hobby income and reports $2,400
 
 Trades for a computer when ETH is valued at $2,750
 
@@ -133,6 +133,8 @@ Trades for a computer when ETH is valued at $2,750
 | ETH Basis: | | $2,400 |
 | Trade Gain: | | $350 |
 | Computer Basis: | | $350 |
+
+\* _Note: If the taxpayer is blockchain mining as a business, then mining awards should be reported on [Schedule C](https://www.irs.gov/pub/irs-pdf/f1040sc.pdf). If mining is a hobby, the income should be reported on [Schedule 1](https://www.irs.gov/pub/irs-pdf/f1040s1.pdf) as Other Income. How does the IRS distinguish between a business and hobby? [Voila](https://www.irs.gov/pub/irs-news/fs-07-18.pdf)._
 
 - **_Cryptocurrency_** is not treated as governmental currency, but as property
   - Specific identification is allowed to leverage gains/losses
