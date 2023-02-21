@@ -4,11 +4,8 @@ title: About
 permalink: /about/
 ---
 
-###### `You're so slow, we should call you July.`   -- Carlos P.
+###### `You're so slow, we should call you July.`   -- former colleague
 
 # Jün
 
-Chronicling the overnight transition from accounting to blockchain.  
-I circuit כתבי קודש, οἰκονομία, and immutable ledgers.
-
-#### Contact: <jun@junsunglee.com>
+Circuiting כתבי קודש, οἰκονομία, and immutable ledgers.
