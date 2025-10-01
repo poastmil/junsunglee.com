@@ -1,18 +1,545 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jun Sung Lee, CPA | Small Business Tax Specialist</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #2c3e50;
+            background: #f8f9fa;
+        }
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+        nav {
+            background: rgba(28, 53, 64, 0.97);
+            backdrop-filter: blur(10px);
+            padding: 1.5rem 0;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+        nav .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+        nav .logo {
+            color: #ffffff;
+            font-size: 1.4rem;
+            font-weight: 300;
+            letter-spacing: 0.5px;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        nav .logo img {
+            width: 45px;
+            height: 45px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 2px solid rgba(255, 255, 255, 0.3);
+        }
+
+        nav .logo strong {
+            font-weight: 600;
+        }
+
+        nav ul {
+            list-style: none;
+            display: flex;
+            gap: 3rem;
+        }
+
+        nav a {
+            color: #b8c5d0;
+            text-decoration: none;
+            transition: color 0.3s;
+            font-size: 0.95rem;
+            letter-spacing: 0.5px;
+            font-weight: 400;
+        }
+
+        nav a:hover {
+            color: #ffffff;
+        }
+
+        section {
+            min-height: 100vh;
+            padding: 8rem 2rem 4rem;
+            display: none;
+        }
+
+        section.active {
+            display: block;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .hero {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            background: linear-gradient(135deg, #1c3540 0%, #2c5564 50%, #3d6978 100%);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: 
+                radial-gradient(circle at 20% 50%, rgba(93, 156, 145, 0.15) 0%, transparent 50%),
+                radial-gradient(circle at 80% 80%, rgba(67, 97, 107, 0.15) 0%, transparent 50%);
+            pointer-events: none;
+        }
+
+        .hero .container {
+            position: relative;
+            z-index: 1;
+        }
+
+        .hero h1 {
+            font-size: 4rem;
+            margin-bottom: 1.5rem;
+            font-weight: 300;
+            letter-spacing: -1px;
+            color: #ffffff;
+        }
+
+        .hero h1 strong {
+            font-weight: 600;
+        }
+
+        .hero .subtitle {
+            font-size: 1.3rem;
+            margin-bottom: 2.5rem;
+            color: #b8d4d4;
+            font-weight: 300;
+            letter-spacing: 0.5px;
+        }
+
+        .hero p {
+            font-size: 1.05rem;
+            max-width: 650px;
+            margin-bottom: 3rem;
+            color: #d4e4e4;
+            line-height: 1.8;
+        }
+
+        .cta-button {
+            background: #5d9c91;
+            color: #ffffff;
+            padding: 1rem 2.5rem;
+            border: none;
+            border-radius: 4px;
+            font-size: 0.95rem;
+            cursor: pointer;
+            transition: all 0.3s;
+            text-decoration: none;
+            display: inline-block;
+            font-weight: 500;
+            letter-spacing: 0.5px;
+        }
+
+        .cta-button:hover {
+            background: #4a8378;
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(93, 156, 145, 0.3);
+        }
+
+        .services {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 2rem;
+            margin-top: 5rem;
+        }
+
+        .service-card {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            padding: 3rem 2.5rem;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-radius: 8px;
+            transition: all 0.4s;
+        }
+
+        .service-card:hover {
+            background: rgba(255, 255, 255, 0.15);
+            border-color: rgba(255, 255, 255, 0.3);
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.2);
+        }
+
+        .service-card h3 {
+            color: #ffffff;
+            margin-bottom: 1rem;
+            font-size: 1.3rem;
+            font-weight: 500;
+            letter-spacing: 0.5px;
+        }
+
+        .service-card p {
+            color: #e0eded;
+            line-height: 1.7;
+        }
+
+        .about-content {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #ffffff;
+            padding: 4rem;
+            border-radius: 8px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+        }
+
+        .profile-header {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+
+        .profile-header img {
+            width: 180px;
+            height: 180px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 5px solid #5d9c91;
+            margin-bottom: 2rem;
+            box-shadow: 0 8px 25px rgba(93, 156, 145, 0.2);
+        }
+
+        .about-content h2 {
+            color: #1c3540;
+            font-size: 3rem;
+            margin-bottom: 3rem;
+            font-weight: 300;
+            letter-spacing: -0.5px;
+        }
+
+        .about-content h3 {
+            color: #2c5564;
+            margin-top: 3rem;
+            margin-bottom: 1.5rem;
+            font-size: 1.4rem;
+            font-weight: 500;
+            letter-spacing: 0.5px;
+        }
+
+        .about-content p {
+            margin-bottom: 1.5rem;
+            font-size: 1.05rem;
+            color: #4a5f6f;
+            line-height: 1.8;
+        }
+
+        .form-section {
+            max-width: 700px;
+            margin: 0 auto;
+            background: #ffffff;
+            padding: 4rem;
+            border-radius: 8px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+        }
+
+        .form-section h2 {
+            color: #1c3540;
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            text-align: center;
+            font-weight: 300;
+            letter-spacing: -0.5px;
+        }
+
+        .form-section .intro {
+            text-align: center;
+            margin-bottom: 3rem;
+            color: #5a6f7f;
+            font-size: 1.05rem;
+            line-height: 1.7;
+        }
+
+        .form-group {
+            margin-bottom: 2rem;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 0.75rem;
+            color: #2c5564;
+            font-weight: 500;
+            font-size: 0.9rem;
+            letter-spacing: 0.3px;
+        }
+
+        input, textarea, select {
+            width: 100%;
+            padding: 1rem;
+            border: 2px solid #d4e0e5;
+            background: #f8fafb;
+            color: #2c3e50;
+            border-radius: 4px;
+            font-size: 1rem;
+            transition: all 0.3s;
+            font-family: inherit;
+        }
+
+        input:focus, textarea:focus, select:focus {
+            outline: none;
+            border-color: #5d9c91;
+            background: #ffffff;
+        }
+
+        textarea {
+            resize: vertical;
+            min-height: 140px;
+        }
+
+        select {
+            cursor: pointer;
+        }
+
+        .submit-button {
+            background: #5d9c91;
+            color: #ffffff;
+            padding: 1.1rem 3rem;
+            border: none;
+            border-radius: 4px;
+            font-size: 0.95rem;
+            cursor: pointer;
+            transition: all 0.3s;
+            width: 100%;
+            font-weight: 500;
+            letter-spacing: 0.5px;
+            margin-top: 1rem;
+        }
+
+        .submit-button:hover {
+            background: #4a8378;
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(93, 156, 145, 0.3);
+        }
+
+        footer {
+            background: #1c3540;
+            color: #8a9eab;
+            text-align: center;
+            padding: 3rem 2rem;
+            margin-top: 6rem;
+            font-size: 0.9rem;
+        }
+
+        footer p {
+            letter-spacing: 0.5px;
+        }
+
+        @media (max-width: 768px) {
+            nav ul {
+                gap: 1.5rem;
+            }
+
+            .hero h1 {
+                font-size: 2.8rem;
+            }
+
+            .hero .subtitle {
+                font-size: 1.1rem;
+            }
+
+            .services {
+                grid-template-columns: 1fr;
+            }
+
+            .about-content, .form-section {
+                padding: 2.5rem 2rem;
+            }
+
+            .about-content h2, .form-section h2 {
+                font-size: 2.2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <div class="container">
+            <div class="logo">
+                <img src="profile.jpg" alt="Jun Sung Lee">
+                <span><strong>Jun Sung Lee</strong>, CPA</span>
+            </div>
+            <ul>
+                <li><a href="#" onclick="showSection('home'); return false;">Home</a></li>
+                <li><a href="#" onclick="showSection('about'); return false;">About</a></li>
+                <li><a href="#" onclick="showSection('contact'); return false;">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section id="home" class="hero active">
+        <div class="container">
+            <h1><strong>Expert Tax Solutions</strong><br>for Small Businesses</h1>
+            <p class="subtitle">Specialized CPA Services You Can Trust</p>
+            <p>Navigate complex tax regulations with confidence. I help small business owners maximize deductions, ensure compliance, and focus on what they do best—growing their business.</p>
+            <a href="#" onclick="showSection('contact'); return false;" class="cta-button">Schedule Consultation</a>
+            
+            <div class="services">
+                <div class="service-card">
+                    <h3>Tax Planning & Preparation</h3>
+                    <p>Strategic tax planning to minimize liability and comprehensive preparation for federal and state returns.</p>
+                </div>
+                <div class="service-card">
+                    <h3>Business Advisory</h3>
+                    <p>Financial guidance to help you make informed decisions and optimize your business structure.</p>
+                </div>
+                <div class="service-card">
+                    <h3>Compliance & Bookkeeping</h3>
+                    <p>Stay compliant with accurate records and timely filings, giving you peace of mind year-round.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="about">
+        <div class="container about-content">
+            <div class="profile-header">
+                <img src="profile.jpg" alt="Jun Sung Lee, CPA">
+                <h2>About Jun Sung Lee, CPA</h2>
+            </div>
+            
+            <p>As a Certified Public Accountant specializing in small business taxation, I understand the unique challenges that entrepreneurs and small business owners face. My mission is to provide personalized, strategic tax solutions that help your business thrive.</p>
+
+            <h3>My Approach</h3>
+            <p>I believe that every small business deserves expert financial guidance without the complexity and high costs typically associated with corporate accounting firms. My practice is built on clear communication, proactive planning, and a genuine commitment to your success.</p>
+
+            <h3>Services & Expertise</h3>
+            <p>With years of experience serving small businesses across various industries, I offer comprehensive tax services including:</p>
+            <p>• Annual tax preparation and filing<br>
+               • Quarterly estimated tax planning<br>
+               • Business entity selection and optimization<br>
+               • Bookkeeping and financial statement preparation<br>
+               • IRS representation and audit support<br>
+               • Strategic tax planning to maximize deductions</p>
+
+            <h3>Why Work With Me</h3>
+            <p>Small businesses need a CPA who is accessible, responsive, and invested in their growth. I take the time to understand your business goals and provide tailored advice that aligns with your vision. Whether you're a sole proprietor, LLC, S-Corp, or partnership, I'm here to help you navigate the tax landscape with confidence.</p>
+
+            <p style="margin-top: 3rem; text-align: center;"><a href="#" onclick="showSection('contact'); return false;" class="cta-button">Let's Work Together</a></p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container form-section">
+            <h2>Start Your Journey</h2>
+            <p class="intro">Fill out the form below and I'll get back to you within 24 hours to discuss how I can help your business.</p>
+            
+            <form id="contactForm" onsubmit="handleSubmit(event)">
+                <div class="form-group">
+                    <label for="name">Full Name *</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="business">Business Name *</label>
+                    <input type="text" id="business" name="business" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="email">Email Address *</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="phone">Phone Number</label>
+                    <input type="tel" id="phone" name="phone">
+                </div>
+
+                <div class="form-group">
+                    <label for="businessType">Business Structure *</label>
+                    <select id="businessType" name="businessType" required>
+                        <option value="">Select your business type</option>
+                        <option value="sole-proprietor">Sole Proprietorship</option>
+                        <option value="llc">LLC</option>
+                        <option value="s-corp">S-Corporation</option>
+                        <option value="c-corp">C-Corporation</option>
+                        <option value="partnership">Partnership</option>
+                        <option value="other">Other</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="services">Services Needed *</label>
+                    <select id="services" name="services" required>
+                        <option value="">Select primary service</option>
+                        <option value="tax-prep">Tax Preparation</option>
+                        <option value="tax-planning">Tax Planning</option>
+                        <option value="bookkeeping">Bookkeeping</option>
+                        <option value="advisory">Business Advisory</option>
+                        <option value="audit-support">Audit Support</option>
+                        <option value="multiple">Multiple Services</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="message">Tell Me About Your Needs *</label>
+                    <textarea id="message" name="message" required placeholder="Please describe your business situation and what you're looking for help with..."></textarea>
+                </div>
+
+                <button type="submit" class="submit-button">Submit Inquiry</button>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Jun Sung Lee, CPA. All rights reserved.</p>
+        <p style="margin-top: 0.5rem;">cpa.junsunglee.com</p>
+    </footer>
+
+    <script>
+        function showSection(sectionId) {
+            const sections = document.querySelectorAll('section');
+            sections.forEach(section => {
+                section.classList.remove('active');
+            });
+            document.getElementById(sectionId).classList.add('active');
+            window.scrollTo(0, 0);
+        }
+
+        function handleSubmit(event) {
+            event.preventDefault();
+            
+            const formData = new FormData(event.target);
+            const data = {};
+            formData.forEach((value, key) => {
+                data[key] = value;
+            });
+
+            alert('Thank you for your inquiry! I will contact you within 24 hours.\n\nNote: To make this form functional, connect it to a service like Formspree, Netlify Forms, or your own backend.');
+            
+            event.target.reset();
+        }
+    </script>
+</body>
+</html>
